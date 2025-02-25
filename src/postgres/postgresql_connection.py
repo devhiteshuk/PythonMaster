@@ -7,7 +7,7 @@ import pandas as pd
 filePath = "D:\\SampleData\\uk_cities.csv"
 myTableName = "UKCityMaster"
 username = "consultants"
-password = "WelcomeItc%402022"
+password = "WelcomeItc%402022" #WelcomeItc@2022
 host = "18.132.73.146"
 databaseName = "testdb"
 port = 5432

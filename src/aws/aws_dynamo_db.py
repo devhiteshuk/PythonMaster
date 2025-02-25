@@ -76,17 +76,17 @@ def main():
     if dynamodb is None:
         return
 
-    table_name = "Employee"
+    table_name = "Employee_Demo"
 
     # Create table
     create_table(dynamodb, table_name)
 
     # Insert records
-    insert_record(dynamodb, table_name, {'ID': '1', 'Name': 'Hitesh', 'Age': 35,'Department':'BigData','Salary':4000, 'DOJ':'26 Nov 2024'})
-    insert_record(dynamodb, table_name, {'ID': '2', 'Name': 'Hasan', 'Age': 34,'Department':'BigData','Salary':4000, 'DOJ':'26 Nov 2024'})
-    insert_record(dynamodb, table_name, {'ID': '3', 'Name': 'Prashob', 'Age': 31,'Department':'BigData','Salary':4000, 'DOJ':'26 Nov 2024'})
-    insert_record(dynamodb, table_name, {'ID': '4', 'Name': 'Muctuba', 'Age': 32,'Department':'BigData','Salary':4000, 'DOJ':'26 Nov 2024'})
-    insert_record(dynamodb, table_name, {'ID': '5', 'Name': 'Obina', 'Age': 33,'Department':'BigData','Salary':4000, 'DOJ':'26 Nov 2024'})
+    insert_record(dynamodb, table_name, {'ID': '1', 'Name': 'Abcd', 'Age': 35,'Department':'BigData','Salary':4000, 'DOJ':'26 Nov 2024'})
+    insert_record(dynamodb, table_name, {'ID': '2', 'Name': 'Efghi', 'Age': 34,'Department':'BigData','Salary':4000, 'DOJ':'26 Nov 2024'})
+    insert_record(dynamodb, table_name, {'ID': '3', 'Name': 'Jklmno', 'Age': 31,'Department':'BigData','Salary':4000, 'DOJ':'26 Nov 2024'})
+    insert_record(dynamodb, table_name, {'ID': '4', 'Name': 'Pqstvew', 'Age': 32,'Department':'BigData','Salary':4000, 'DOJ':'26 Nov 2024'})
+    insert_record(dynamodb, table_name, {'ID': '5', 'Name': 'Ustvsv', 'Age': 33,'Department':'BigData','Salary':4000, 'DOJ':'26 Nov 2024'})
 
     # Read all records
     read_records(dynamodb, table_name)
@@ -94,7 +94,7 @@ def main():
     # Get a specific item
     get_item(dynamodb, table_name, {'ID': '1'})
     # Get records by name
-    get_item(dynamodb, table_name, {'Name': 'Hitesh'})
+    get_item(dynamodb, table_name, {'Name': 'Abcd'})
 
 if __name__ == "__main__":
     main()
