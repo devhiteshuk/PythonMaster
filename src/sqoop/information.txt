@@ -1,0 +1,9 @@
+//TO do full load transfer data from source (PostgreSQL) to hdfs suing sqoop imfort command
+sqoop import --connect jdbc:postgresql://18.132.73.146:5432/testdb --username consultants --password WelcomeItc@2022 --table UKCityMaster --m 1 --target-dir /tmp/bigdata_nov_2024/hitesh/feb2025/sqoop
+
+sqoop import 
+--connect jdbc:postgresql://18.132.73.146:5432/testdb
+--username consultants
+--password WelcomeItc@2022
+--table UKCityMaster --m 1 /*-m 1 is say how many file */ 
+--target-dir /tmp/bigdata_nov_2024/hitesh/feb2025/sqoop /*HDFC file path to store*/

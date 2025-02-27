@@ -1,0 +1,1390 @@
+Chat with: [SkypeGroupChat]
+Id: 19:08003665633e400ba67e83572023f7ee@thread.skype
+Alerts: True
+Topic: BD CLP
+CreatorId: live:.cid.af7db9ccbf097ec6;cid=-5801276455953793338;skypeid=live:.cid.af7db9ccbf097ec6
+UserIds: live:.cid.88e9dd71be7f958e
+         live:df68a801c4bf46e3
+         nbhartendu
+         live:.cid.ab7d9a34d597ccf3
+         live:.cid.3ebf3a29f2ba092d
+         live:.cid.f5cec7ab1bcd7a38
+         live:.cid.45ca44d45cc43814
+         live:.cid.c329471ec01b59ff
+         live:.cid.b901427c2d5712d9
+         live:.cid.6eaf643f0f762b31
+         live:.cid.aea9f5d81885b598
+         live:.cid.c87211b2836cbe39
+         live:.cid.a7ba012e54cde1fd
+         rajsavjani
+         live:.cid.33c31a30baf5c0e
+         live:.cid.db51610542d14a19
+         live:.cid.9d01b8d1c8a8f0d9
+         live:.cid.5a20fc39d37d705c
+         live:vikaskumar246
+         david.anahory
+         live:.cid.d84230de2cedcdde
+         ranaulislam
+         live:.cid.498220b24eddecef
+         live:iwyz80
+         live:.cid.af7db9ccbf097ec6
+         live:.cid.a66b656722460ea4
+         live:ajaykumar.gurram5
+         asadkardame
+         live:e0a7a781571f5c90
+         vanathi50
+         mansur.can
+         naveen.nair6
+         live:mohanasundaram.moorthy
+         live:.cid.5fb9894b84c30794
+         live:.cid.97b7b6c420224d72
+         live:.cid.c78ba9fea7d96706
+         live:.cid.539e82361ca53253
+         live:chencen
+         live:cd33be4802c46d12
+         live:8539b22d38a837
+         live:.cid.a35b82a75051042a
+         syed.monis4
+         umer.sajid73
+         live:.cid.cccbd31798ab450e
+         live:.cid.24123aa55a8e7911
+         live:.cid.2fa929108c9318fd
+         live:.cid.56b1c432bc10450c
+         live:.cid.58d2b3786440ccbe
+         live:.cid.91279bc277fdb584
+AdminIds: live:.cid.88e9dd71be7f958e
+          live:df68a801c4bf46e3
+          nbhartendu
+          live:.cid.ab7d9a34d597ccf3
+          live:.cid.3ebf3a29f2ba092d
+          live:.cid.f5cec7ab1bcd7a38
+          live:.cid.45ca44d45cc43814
+          live:.cid.c329471ec01b59ff
+          live:.cid.b901427c2d5712d9
+          live:.cid.6eaf643f0f762b31
+          live:.cid.aea9f5d81885b598
+          live:.cid.c87211b2836cbe39
+          live:.cid.a7ba012e54cde1fd
+          rajsavjani
+          live:.cid.33c31a30baf5c0e
+          live:.cid.db51610542d14a19
+          live:.cid.9d01b8d1c8a8f0d9
+          live:.cid.5a20fc39d37d705c
+          live:vikaskumar246
+          david.anahory
+          live:.cid.d84230de2cedcdde
+          ranaulislam
+          live:.cid.498220b24eddecef
+          live:iwyz80
+          live:.cid.af7db9ccbf097ec6
+          live:.cid.a66b656722460ea4
+          live:ajaykumar.gurram5
+          asadkardame
+          live:e0a7a781571f5c90
+          vanathi50
+          mansur.can
+          naveen.nair6
+          live:mohanasundaram.moorthy
+          live:.cid.5fb9894b84c30794
+          live:.cid.97b7b6c420224d72
+          live:.cid.c78ba9fea7d96706
+          live:.cid.539e82361ca53253
+          live:chencen
+          live:cd33be4802c46d12
+          live:8539b22d38a837
+          live:.cid.a35b82a75051042a
+          syed.monis4
+          umer.sajid73
+          live:.cid.cccbd31798ab450e
+          live:.cid.24123aa55a8e7911
+          live:.cid.2fa929108c9318fd
+          live:.cid.56b1c432bc10450c
+          live:.cid.58d2b3786440ccbe
+          live:.cid.91279bc277fdb584
+Open: True
+History: True
+Picture: None
+Active: True
+Moderated: False
+--------------------------------------------------
+[2025-02-25 21:03:06.904000] live:.cid.91279bc277fdb584: Okay 👍 
+[2025-02-25 19:22:05.901000] live:.cid.cccbd31798ab450e: <at id="8:live:.cid.91279bc277fdb584">Hitesh</at> make sure all adf and databricks resources are stoped
+[2025-02-25 19:21:45.003000] live:.cid.cccbd31798ab450e: its charging a lot money 
+[2025-02-25 19:21:35.209000] live:.cid.cccbd31798ab450e: Please stop adf 
+[2025-02-25 16:39:56.078000] live:.cid.33c31a30baf5c0e: <quote author="live:.cid.24123aa55a8e7911" authorname="Rupali Waykole" timestamp="1740501574" conversation="19:08003665633e400ba67e83572023f7ee@thread.skype" messageid="1740501574239" cuid="17554545629758626409"><legacyquote>[1740501574] Rupali Waykole: </legacyquote>we can do tomorrow at 9am<legacyquote>
+
+&lt;&lt;&lt; </legacyquote></quote>ok
+[2025-02-25 16:39:33.415000] live:.cid.24123aa55a8e7911: <quote author="live:.cid.33c31a30baf5c0e" authorname="Prashob ITC" timestamp="1740501152" conversation="19:08003665633e400ba67e83572023f7ee@thread.skype" messageid="1740501152463" cuid="2706039672054757419"><legacyquote>[1740501152] Prashob ITC: </legacyquote>hi <at id=" ">Rupali</at> shall we start<legacyquote>
+
+&lt;&lt;&lt; </legacyquote></quote>we can do tomorrow at 9am
+[2025-02-25 16:32:32.130000] live:.cid.33c31a30baf5c0e: hi <at id="8:live:.cid.24123aa55a8e7911">Rupali</at> shall we start
+[2025-02-25 16:12:29.368000] live:.cid.91279bc277fdb584: <partlist type="ended" alt=""><part identity="live:.cid.db51610542d14a19"><name>live:.cid.db51610542d14a19</name><duration>513</duration></part><part identity="live:.cid.91279bc277fdb584"><name>live:.cid.91279bc277fdb584</name><duration>513</duration></part><part identity="live:.cid.24123aa55a8e7911"><name>live:.cid.24123aa55a8e7911</name><duration>513</duration></part><part identity="live:.cid.58d2b3786440ccbe"><name>live:.cid.58d2b3786440ccbe</name><duration>513</duration></part><part identity="live:.cid.c329471ec01b59ff"><name>live:.cid.c329471ec01b59ff</name><duration>513</duration></part><part identity="0ad9717e-76fd-4658-a764-beaf21698977"><name>0ad9717e-76fd-4658-a764-beaf21698977</name><duration>513</duration></part><part identity="live:.cid.33c31a30baf5c0e"><name>live:.cid.33c31a30baf5c0e</name><duration>513</duration></part></partlist>
+[2025-02-25 16:12:27.273000] live:.cid.24123aa55a8e7911: <URIObject format_version="1.1" type="Video.2/CallRecording.1" url_thumbnail="https://api.asm.skype.com/v1/objects/0-ea-d3-7a02d2bc18cd9728e424d51141c4a110/views/thumbnail_small" uri="https://api.asm.skype.com/v1/objects/0-ea-d3-7a02d2bc18cd9728e424d51141c4a110" version="1.0"><RecordingStatus status="Success" code="200"><amsErrorResult /></RecordingStatus><SessionEndReason value="InitiatorLeft" /><ChunkEndReason value="SessionEnded" /><Title>Video</Title><a href="https://login.skype.com/login/sso?go=webclient.xmm&amp;am=0-ea-d3-7a02d2bc18cd9728e424d51141c4a110">Play</a><OriginalName v="Video-20250225_161226-Meeting Recording.mp4" /><MeetingOrganizerId value="" /><MeetingOrganizerTenantId value="" /><RecordingInitiatorId value="8:live:.cid.24123aa55a8e7911" /><CallProcessingId value="" /><ICalUid value="" /><Identifiers><Id type="callId" value="1feb25b5-019a-464a-af79-c118be03f3f6" /><Id type="callLegId" value="20833a76-6c85-4f6d-a135-681450fb40a9" /><Id type="chunkIndex" value="0" /><Id type="AMSDocumentID" value="0-ea-d3-7a02d2bc18cd9728e424d51141c4a110" /><Id type="StreamVideoId" value="" /></Identifiers><RecordingContent contentTypes="Recording" timestamp="2025-02-25T16:06:09.7138369Z" duration="0:06:12.88" canVideoExpire="False"><item type="video" uri="https://api.asm.skype.com/v1/objects/0-ea-d3-7a02d2bc18cd9728e424d51141c4a110" /><item type="amsVideo" uri="https://api.asm.skype.com/v1/objects/0-ea-d3-7a02d2bc18cd9728e424d51141c4a110" /><item type="amsTranscript" uri="" /><item type="rosterevents" uri="https://api.asm.skype.com/v1/objects/0-ea-d3-7a02d2bc18cd9728e424d51141c4a110/views/rosterevents" /></RecordingContent></URIObject>
+[2025-02-25 16:03:57.282000] live:.cid.24123aa55a8e7911: <partlist type="started" alt=""><part identity="live:.cid.24123aa55a8e7911"><name>live:.cid.24123aa55a8e7911</name></part></partlist>
+[2025-02-25 16:03:42.016000] live:.cid.24123aa55a8e7911: team , lets start
+[2025-02-25 11:55:28.642000] live:.cid.58d2b3786440ccbe: <partlist type="ended" alt=""><part identity="live:.cid.88e9dd71be7f958e"><name>live:.cid.88e9dd71be7f958e</name><duration>5579</duration></part><part identity="live:.cid.24123aa55a8e7911"><name>live:.cid.24123aa55a8e7911</name><duration>5579</duration></part><part identity="live:.cid.58d2b3786440ccbe"><name>live:.cid.58d2b3786440ccbe</name><duration>5579</duration></part><part identity="live:.cid.db51610542d14a19"><name>live:.cid.db51610542d14a19</name><duration>5579</duration></part><part identity="live:.cid.91279bc277fdb584"><name>live:.cid.91279bc277fdb584</name><duration>5579</duration></part><part identity="0ad9717e-76fd-4658-a764-beaf21698977"><name>0ad9717e-76fd-4658-a764-beaf21698977</name><duration>5579</duration></part><part identity="live:.cid.c329471ec01b59ff"><name>live:.cid.c329471ec01b59ff</name><duration>5579</duration></part><part identity="live:.cid.33c31a30baf5c0e"><name>live:.cid.33c31a30baf5c0e</name><duration>5579</duration></part></partlist>
+[2025-02-25 11:52:43.211000] live:.cid.24123aa55a8e7911: import boto3
+import os
+from datetime import datetime
+
+# Initialize S3 client
+s3 = boto3.client(&apos;s3&apos;)
+
+# Get S3 bucket name from environment variable
+BUCKET_NAME = os.environ.get(&quot;S3_BUCKET_NAME&quot;, &quot;your-bucket-name&quot;)
+
+def lambda_handler(event, context):
+    # Generate a filename with current datetime
+    current_time = datetime.now().strftime(&quot;%Y-%m-%d_%H-%M-%S&quot;)
+    file_name = f&quot;hello_{current_time}.txt&quot;
+    file_content = &quot;Hello, World!&quot;
+    
+    try:
+        # Upload file to S3
+        s3.put_object(Bucket=BUCKET_NAME, Key=file_name, Body=file_content)
+        
+        return {
+            &apos;statusCode&apos;: 200,
+            &apos;body&apos;: f&apos;Successfully written &quot;{file_name}&quot; to S3 bucket &quot;{BUCKET_NAME}&quot;&apos;
+        }
+    
+    except Exception as e:
+        return {
+            &apos;statusCode&apos;: 500,
+            &apos;body&apos;: f&apos;Error: {str(e)}&apos;
+        }
+
+[2025-02-25 11:52:00.263000] live:.cid.24123aa55a8e7911: <pre raw_pre="```" raw_post="```">{
+    &quot;Version&quot;: &quot;2012-10-17&quot;,
+    &quot;Statement&quot;: [
+        {
+            &quot;Effect&quot;: &quot;Allow&quot;,
+            &quot;Action&quot;: [
+                &quot;logs:CreateLogGroup&quot;,
+                &quot;logs:CreateLogStream&quot;,
+                &quot;logs:PutLogEvents&quot;
+            ],
+            &quot;Resource&quot;: &quot;arn:aws:logs:*:*:*&quot;
+        }
+    ]
+}
+</pre>
+[2025-02-25 11:51:52.740000] live:.cid.24123aa55a8e7911: {
+    &quot;Version&quot;: &quot;2012-10-17&quot;,
+    &quot;Statement&quot;: [
+        {
+            &quot;Effect&quot;: &quot;Allow&quot;,
+            &quot;Action&quot;: [
+                &quot;logs:CreateLogGroup&quot;,
+                &quot;logs:CreateLogStream&quot;,
+                &quot;logs:PutLogEvents&quot;
+            ],
+            &quot;Resource&quot;: &quot;arn:aws:logs<ss type="kiss" utf="😗">:*</ss><ss type="kiss" utf="😗">:*</ss><ss type="kiss" utf="😗">:*</ss>&quot;
+        }
+    ]
+}
+
+[2025-02-25 11:51:51.700000] live:.cid.db51610542d14a19: <URIObject format_version="1.1" type="Video.2/CallRecording.1" url_thumbnail="https://api.asm.skype.com/v1/objects/0-jhb-d2-e13fb77e1d4630d0a9fee3dbc80e36a6/views/thumbnail_small" uri="https://api.asm.skype.com/v1/objects/0-jhb-d2-e13fb77e1d4630d0a9fee3dbc80e36a6" version="1.0"><RecordingStatus status="Success" code="200"><amsErrorResult /></RecordingStatus><SessionEndReason value="InitiatorLeft" /><ChunkEndReason value="SessionEnded" /><Title>Video</Title><a href="https://login.skype.com/login/sso?go=webclient.xmm&amp;am=0-jhb-d2-e13fb77e1d4630d0a9fee3dbc80e36a6">Play</a><OriginalName v="Video-20250225_115151-Meeting Recording.mp4" /><MeetingOrganizerId value="" /><MeetingOrganizerTenantId value="" /><RecordingInitiatorId value="8:live:.cid.db51610542d14a19" /><CallProcessingId value="" /><ICalUid value="" /><Identifiers><Id type="callId" value="6855813e-e67a-4b44-b7ff-6026d546b572" /><Id type="callLegId" value="0487bf6d-c945-4dcf-bc5c-dab5c4410184" /><Id type="chunkIndex" value="0" /><Id type="AMSDocumentID" value="0-jhb-d2-e13fb77e1d4630d0a9fee3dbc80e36a6" /><Id type="StreamVideoId" value="" /></Identifiers><RecordingContent contentTypes="Recording" timestamp="2025-02-25T11:25:07.6084636Z" duration="0:26:27.22" canVideoExpire="False"><item type="video" uri="https://api.asm.skype.com/v1/objects/0-jhb-d2-e13fb77e1d4630d0a9fee3dbc80e36a6" /><item type="amsVideo" uri="https://api.asm.skype.com/v1/objects/0-jhb-d2-e13fb77e1d4630d0a9fee3dbc80e36a6" /><item type="amsTranscript" uri="" /><item type="rosterevents" uri="https://api.asm.skype.com/v1/objects/0-jhb-d2-e13fb77e1d4630d0a9fee3dbc80e36a6/views/rosterevents" /></RecordingContent></URIObject>
+[2025-02-25 11:17:41.586000] live:.cid.d84230de2cedcdde: <ss type="yes" utf="👍">(y)</ss>
+[2025-02-25 11:40:14.212000] live:.cid.24123aa55a8e7911: CI/CD Architecture for a Data Engineering Pipeline
+Use Case: Automating the deployment of a PySpark ETL pipeline using AWS services.
+
+ Data Flow: 1️⃣ Developers commit PySpark code &amp; Terraform scripts to GitHub/CodeCommit.
+2️⃣ CodeBuild runs unit tests on PySpark &amp; Terraform validation.
+3️⃣ CodePipeline triggers deployments based on branch merges.
+4️⃣ Terraform provisions AWS resources (S3, Glue, EMR, Redshift).
+5️⃣ Lambda or Airflow orchestrates job execution in Glue or EMR.
+6️⃣ Monitoring &amp; logging via CloudWatch &amp; SNS alerts.
+[2025-02-25 11:35:30.404000] live:.cid.24123aa55a8e7911: CI/CD (Continuous Integration &amp; Continuous Deployment) in AWS enables automated testing, building, and deployment of data pipelines, ETL jobs, and infrastructure changes.
+
+AWS CI/CD services include:
+
+CodeCommit – Git repository for version control
+CodeBuild – Builds and tests code
+CodePipeline – Automates CI/CD workflows
+CodeDeploy – Deploys applications to EC2, ECS, Lambda
+CodeArtifact – Manages dependencies
+GitHub Actions / Jenkins – Can also be used for CI/CD
+[2025-02-25 11:34:05.717000] live:.cid.88e9dd71be7f958e: Codepipeline
+[2025-02-25 11:32:30.496000] live:.cid.24123aa55a8e7911: In data engineering, writing repeatable, production-quality code means:
+✅ Parameterization – Making the pipeline configurable via external inputs (e.g., YAML, JSON, or environment variables).
+✅ Templating – Using tools like Jinja2 in Python or Airflow macros for dynamic SQL and script generation.
+✅ Modularization – Writing reusable functions instead of hardcoding logic.
+[2025-02-25 11:32:09.889000] live:.cid.88e9dd71be7f958e: Jinja
+[2025-02-25 11:29:25.610000] live:.cid.24123aa55a8e7911:  Able to write repeatable, production-quality code for data pipelines, utilizing templating and
+parameterization where needed
+[2025-02-25 11:21:00.052000] live:.cid.24123aa55a8e7911: # Read Parquet files with schema merging
+merged_df = spark.read.option(&quot;mergeSchema&quot;, &quot;true&quot;).parquet(&quot;data/schema_evolution&quot;)
+[2025-02-25 11:17:33.419000] live:.cid.24123aa55a8e7911: stage - silver - cleaning, filtering, column pruning, outliers<e_m a="live:.cid.24123aa55a8e7911" ts_ms="1740482030558" ts="1740482030" t="61"></e_m>
+[2025-02-25 11:13:50.558000] live:.cid.24123aa55a8e7911: stage - silver - cleaning, filtering, column pruning, outliers<e_m a="live:.cid.24123aa55a8e7911" ts_ms="1740482030558" ts="1740482030" t="61"></e_m>
+[2025-02-25 11:13:59.771000] live:.cid.24123aa55a8e7911: curated - gold
+[2025-02-25 11:13:40.024000] live:.cid.24123aa55a8e7911: raw - bronze
+[2025-02-25 11:10:38.813000] live:.cid.24123aa55a8e7911: Generator Comprehension
+Creates an iterator instead of a list (memory-efficient).
+
+sum_squares = sum(x ** 2 for x in range(5))
+print(sum_squares)  # Output: 30
+
+Uses lazy evaluation, consuming less memory than lists.
+
+[2025-02-25 11:06:32.616000] live:.cid.24123aa55a8e7911: functools.wraps (Preserve Metadata in Decorators)
+Ensures that a function’s original metadata (e.g., <i raw_pre="_" raw_post="_">_name_</i>, <i raw_pre="_" raw_post="_">_doc_</i>) is not lost when wrapped by a decorator.
+
+Example:
+from functools import wraps
+
+def decorator(func):
+    @wraps(func)
+    def wrapper(*args, **kwargs):
+        print(&quot;Before function call&quot;)
+        return func(*args, **kwargs)
+    return wrapper
+
+@decorator
+def greet():
+    &quot;&quot;&quot;Returns a greeting message&quot;&quot;&quot;
+    return &quot;Hello!&quot;
+
+print(greet.__name__)  # Output: greet (not wrapper)
+print(greet.__doc__)   # Output: Returns a greeting message
+Without @wraps, greet.__name__ would return &quot;wrapper&quot;, not &quot;greet&quot;.
+
+
+Chat with: [SkypeGroupChat]
+Id: 19:cc2718b9a70d40ea8d2edc6a3f261786@thread.v2
+Alerts: True
+Topic: inHouse_Devlopment
+CreatorId: live:.cid.cccbd31798ab450e
+UserIds: live:.cid.c329471ec01b59ff
+         live:.cid.18ff2b5031c57898
+         live:.cid.8d5a97b16a35e030
+         live:.cid.aa2165688f0a2ea9
+         live:.cid.b90b4f4ebacb4e3f
+         live:.cid.cccbd31798ab450e
+AdminIds: live:.cid.c329471ec01b59ff
+          live:.cid.18ff2b5031c57898
+          live:.cid.8d5a97b16a35e030
+          live:.cid.aa2165688f0a2ea9
+          live:.cid.b90b4f4ebacb4e3f
+          live:.cid.cccbd31798ab450e
+Open: False
+History: False
+Picture: None
+Active: True
+Moderated: False
+--------------------------------------------------
+[2025-02-25 17:27:29.893000] live:.cid.cccbd31798ab450e: Awesome, <at id="8:live:.cid.c329471ec01b59ff">Sujay</at> have a seprate call with <at id="8:live:.cid.aa2165688f0a2ea9">Aditya</at> tomorrow
+[2025-02-25 17:26:56.627000] live:.cid.aa2165688f0a2ea9: <quote author="live:.cid.cccbd31798ab450e" authorname="Uttam Kumar" timestamp="1740504386" conversation="19:cc2718b9a70d40ea8d2edc6a3f261786@thread.v2" messageid="1740504385973" cuid="9837970582718065128"><legacyquote>[1740504386] Uttam Kumar: </legacyquote><at id=" ">Sujay</at> we need to load the data to s3 bucket<legacyquote>
+
+&lt;&lt;&lt; </legacyquote></quote>Data from the code can be written to a file.json and uploaded to s3 
+[2025-02-25 17:27:01.857000] live:.cid.cccbd31798ab450e: for now use your interview chat
+[2025-02-25 17:26:53.661000] live:.cid.cccbd31798ab450e: later on I will give you a sample skype id
+[2025-02-25 17:26:32.988000] live:.cid.aa2165688f0a2ea9: You can run my code in code and see, just enter your email and password. 
+[2025-02-25 17:26:25.973000] live:.cid.cccbd31798ab450e: <at id="8:live:.cid.c329471ec01b59ff">Sujay</at> we need to load the data to s3 bucket
+[2025-02-25 17:24:14.776000] live:.cid.c329471ec01b59ff: Let me try. that is why i dint try with that library. 
+[2025-02-25 17:23:38.339000] live:.cid.aa2165688f0a2ea9: Forgot to take a screenshot 
+[2025-02-25 17:23:27.314000] live:.cid.aa2165688f0a2ea9: I was able to retrieve all the chat history and live chats from this group 
+[2025-02-25 17:23:13.342000] live:.cid.aa2165688f0a2ea9: <quote author="live:.cid.c329471ec01b59ff" authorname="Sujay Chandra ITC BD" timestamp="1740504160" conversation="19:cc2718b9a70d40ea8d2edc6a3f261786@thread.v2" messageid="1740504160325" cuid="16035680101828494834"><legacyquote>[1740504160] Sujay Chandra ITC BD: </legacyquote>skpy no longer works because Microsoft disabled the legacy Skype API in favor of Microsoft Graph API.<legacyquote>
+
+&lt;&lt;&lt; </legacyquote></quote>I used skpy yesterday it worked with no issues for me 
+[2025-02-25 17:22:40.325000] live:.cid.c329471ec01b59ff: <quote author="live:.cid.aa2165688f0a2ea9" authorname="Aditya" timestamp="1740504023" conversation="19:cc2718b9a70d40ea8d2edc6a3f261786@thread.v2" messageid="1740504022703" cuid="4425159970164025789"><legacyquote>[1740504023] Aditya: </legacyquote>Live time message reads<legacyquote>
+
+&lt;&lt;&lt; </legacyquote></quote>skpy no longer works because Microsoft disabled the legacy Skype API in favor of Microsoft Graph API.
+[2025-02-25 17:21:49.195000] live:.cid.cccbd31798ab450e: We can discuss on Thursday or Friday
+[2025-02-25 17:21:26.791000] live:.cid.cccbd31798ab450e: <at id="8:live:.cid.8d5a97b16a35e030">MJ</at> <at id="8:live:.cid.b90b4f4ebacb4e3f">Firdous</at> We need to have discussion on frontend, I want add more textfield for add more information to our database
+[2025-02-25 17:20:22.703000] live:.cid.aa2165688f0a2ea9: <quote author="live:.cid.aa2165688f0a2ea9" authorname="Aditya" timestamp="1740421512" conversation="19:cc2718b9a70d40ea8d2edc6a3f261786@thread.v2" messageid="1740421512393" cuid="3035703505733550639"><legacyquote>[1740421512] Aditya: </legacyquote>from skpy import Skype, SkypeSingleChat, SkypeGroupChat
+
+GROUP_ID = &quot;<a href="mailto:19:cc2718b9a70d40ea8d2edc6a3f261786@thread.v">19:cc2718b9a70d40ea8d2edc6a3f261786@thread.v</a>2&quot;
+
+sk = <a href="mailto:skype(&quot;email@gmail.com">skype(&quot;email@gmail.com</a>&quot;, &quot;PASSWORD&quot;)  
+
+group_chat = sk.chats[GROUP_ID]
+
+messages = group_chat.getMsgs()
+
+# Display messages
+for msg in messages:
+    print(f&quot;{msg.userId}: {msg.content}&quot;) 
+
+import time
+
+while True:
+    messages = group_chat.getMsgs()
+    for msg in messages:
+        print(f&quot;{msg.userId}: {msg.content}&quot;)
+    time.sleep(5)  # Fetch messages every 5 seconds
+
+reads group messages in real time and also previous messages<legacyquote>
+
+&lt;&lt;&lt; </legacyquote></quote>Live time message reads
+[2025-02-25 17:20:01.179000] live:.cid.aa2165688f0a2ea9: <quote author="live:.cid.aa2165688f0a2ea9" authorname="Aditya" timestamp="1740421557" conversation="19:cc2718b9a70d40ea8d2edc6a3f261786@thread.v2" messageid="1740421557043" cuid="13752479338947593237"><legacyquote>[1740421557] Aditya: </legacyquote>from skpy import Skype
+
+# Login to Skype (use a token file for security)
+sk = <a href="mailto:skype(&quot;email@gmail.com">skype(&quot;email@gmail.com</a>&quot;, &quot;PASSWORD&quot;)  
+
+# Get recent chats
+chats = sk.chats.recent()
+
+# Print all chat IDs
+for chat_id, chat in chats.items():
+    chat_type = &quot;Group Chat&quot; if &quot;thread.skype&quot; in chat_id else &quot;Direct Chat&quot;
+    print(f&quot;Chat ID: {chat_id} | Type: {chat_type} | Topic: {chat.topic if hasattr(chat, &apos;topic&apos;) else &apos;No Topic&apos;}&quot;)
+
+
+FETCHES GROUP ID, THE GROUP ID BEING PASSED WILL BE USED FOR RETRIEVING DATA<legacyquote>
+
+&lt;&lt;&lt; </legacyquote></quote>This code will do the job 
+[2025-02-25 17:19:24.465000] live:.cid.c329471ec01b59ff: <quote author="live:.cid.aa2165688f0a2ea9" authorname="Aditya" timestamp="1740503552" conversation="19:cc2718b9a70d40ea8d2edc6a3f261786@thread.v2" messageid="1740503551706" cuid="11482825182202857508"><legacyquote>[1740503552] Aditya: </legacyquote>why are you using selenium webdriver and accessing skype? We have skype python module skpy that makes it easier to fetch data, and we can convert that to json <at id=" ">Sujay</at> <legacyquote>
+
+&lt;&lt;&lt; </legacyquote></quote>Will check on it 
+[2025-02-25 17:19:46.464000] live:.cid.c329471ec01b59ff: <quote author="live:.cid.c329471ec01b59ff" authorname="Sujay Chandra ITC BD" timestamp="1740503181" conversation="19:cc2718b9a70d40ea8d2edc6a3f261786@thread.v2" messageid="1740503181317" cuid="2147970167894231874"><legacyquote>[1740503181] Sujay Chandra ITC BD: </legacyquote>Lambda function is written to access Skype and get the data. Need to do some setting. Had told Hitesh to look into it. I was busy with preps and interview. will check with him <legacyquote>
+
+&lt;&lt;&lt; </legacyquote></quote>Here! 
+[2025-02-25 17:18:24.955000] live:.cid.aa2165688f0a2ea9: Okay 
+[2025-02-25 17:18:06.155000] live:.cid.cccbd31798ab450e: <at id="8:live:.cid.aa2165688f0a2ea9">Aditya</at> I will connect with you tomorrow, for upgrading the server 
+[2025-02-25 17:17:29.766000] live:.cid.b90b4f4ebacb4e3f: yeah, i will need it db instance, after my local implementation is complete<e_m a="live:.cid.b90b4f4ebacb4e3f" ts_ms="1740503849765" ts="1740503849" t="61"></e_m>
+[2025-02-25 17:17:29.765000] live:.cid.b90b4f4ebacb4e3f: yeah, i will need it db instance, after my local implementation is complete<e_m a="live:.cid.b90b4f4ebacb4e3f" ts_ms="1740503849765" ts="1740503849" t="61"></e_m>
+[2025-02-25 17:17:42.081000] live:.cid.cccbd31798ab450e: <at id="8:live:.cid.c329471ec01b59ff">Sujay</at> any update
+[2025-02-25 17:16:52.510000] live:.cid.cccbd31798ab450e: <at id="8:live:.cid.b90b4f4ebacb4e3f">Firdous</at> you can use above tool to connect
+[2025-02-25 17:16:40.412000] live:.cid.cccbd31798ab450e: <a href="https://dbeaver.io/">https://dbeaver.io/</a>
+[2025-02-25 17:16:27.012000] live:.cid.cccbd31798ab450e: <quote author="live:.cid.c329471ec01b59ff" authorname="Sujay Chandra ITC BD" timestamp="1740158273" conversation="19:cc2718b9a70d40ea8d2edc6a3f261786@thread.v2" messageid="1740158273301" cuid="5130404617622026731"><legacyquote>[1740158273] Sujay Chandra ITC BD: </legacyquote>postgresql://18.132.73.146:5432<legacyquote>
+
+&lt;&lt;&lt; </legacyquote></quote>ip and port
+[2025-02-25 17:16:02.448000] live:.cid.cccbd31798ab450e: db:itcdb
+[2025-02-25 17:15:54.709000] live:.cid.cccbd31798ab450e: Password:WelcomeItc@2025
+[2025-02-25 17:15:42.552000] live:.cid.cccbd31798ab450e: user:itcuser
+[2025-02-25 17:15:28.939000] live:.cid.cccbd31798ab450e: postgres=# create database itcdb;
+CREATE DATABASE
+postgres=# create user itcuser with encrypted password &apos;WelcomeItc@2025&apos;;
+CREATE ROLE
+postgres=# grant all privileges on database itcdb to itcuser;
+GRANT
+postgres=# 
+
+[2025-02-25 17:12:31.706000] live:.cid.aa2165688f0a2ea9: why are you using selenium webdriver and accessing skype? We have skype python module skpy that makes it easier to fetch data, and we can convert that to json <at id="8:live:.cid.c329471ec01b59ff">Sujay</at> 
+
+
+Chat with: [SkypeSingleChat]
+Id: 8:live:.cid.91279bc277fdb584
+Alerts: True
+UserId: live:.cid.91279bc277fdb584
+--------------------------------------------------
+[2025-02-25 17:19:50.871000] live:.cid.91279bc277fdb584: checking locally its worked then will move it to cloud 
+[2025-02-25 17:19:01.369000] live:.cid.c329471ec01b59ff: Ok 
+[2025-02-25 17:15:59.867000] live:.cid.91279bc277fdb584: so not able to find local database file to read chat history 
+[2025-02-25 17:15:42.412000] live:.cid.91279bc277fdb584: Hi, I tried on aws lambda but get any fuitful result and then try to do locally read from skype sqlite database but found that some skype version not store data locally 
+[2025-02-25 17:06:40.481000] live:.cid.c329471ec01b59ff: any updates on the code?
+[2025-02-25 17:06:34.103000] live:.cid.c329471ec01b59ff: Hello
+[2025-02-25 09:55:00.696000] live:.cid.c329471ec01b59ff: <partlist type="ended" alt="" callId="5100ae46-ee4b-4c62-9b28-bb8b2cf36c2f"><part identity="live:.cid.c329471ec01b59ff"><name>Sujay Chandra ITC BD</name><duration>507.889</duration></part><part identity="live:.cid.91279bc277fdb584"><name>Hitesh Dhamshaniya ITC</name><duration>507.889</duration></part></partlist>
+[2025-02-25 09:50:01.336000] live:.cid.c329471ec01b59ff: lambda: skype_dev 
+[2025-02-25 09:46:32.837000] live:.cid.c329471ec01b59ff: <partlist type="started" alt="" callId="5100ae46-ee4b-4c62-9b28-bb8b2cf36c2f"><part identity="live:.cid.c329471ec01b59ff"><name>Sujay Chandra ITC BD</name></part><part identity="live:.cid.91279bc277fdb584"><name>Hitesh Dhamshaniya ITC</name></part></partlist>
+[2025-02-14 16:45:57.576000] live:.cid.91279bc277fdb584: <partlist type="ended" alt="" callId="c3555ae9-dc64-4f93-838b-ecf962d03259"><part identity="live:.cid.91279bc277fdb584"><name>Hitesh Dhamshaniya ITC</name><duration>227.801</duration></part><part identity="live:.cid.c329471ec01b59ff"><name>Sujay Chandra ITC BD</name><duration>227.801</duration></part></partlist>
+[2025-02-14 16:44:01.680000] live:.cid.c329471ec01b59ff: <a href="https://spark.apache.org/docs/3.5.3/web-ui.html">https://spark.apache.org/docs/3.5.3/web-ui.html</a>
+[2025-02-14 16:42:09.818000] live:.cid.91279bc277fdb584: <partlist type="started" alt="" callId="c3555ae9-dc64-4f93-838b-ecf962d03259"><part identity="live:.cid.91279bc277fdb584"><name>Hitesh Dhamshaniya ITC</name></part><part identity="live:.cid.c329471ec01b59ff"><name>Sujay Chandra ITC BD</name></part></partlist>
+[2025-02-13 12:18:30.205000] live:.cid.91279bc277fdb584: <quote author="live:.cid.29fe0df67c889579" authorname="Jude Smith" timestamp="1739374306" conversation="19:10f48fbab3fe4b17add02dd4d5a3ff03@thread.v2" messageid="1739374305788" cuid="43846168352677482"><legacyquote>[1739374306] Jude Smith: </legacyquote>Interviewers:
+
+<a href="https://uk.linkedin.com/in/abhijitpatil2">https://uk.linkedin.com/in/abhijitpatil2</a>
+<a href="https://www.linkedin.com/in/anshul-gupta-876b1032/">https://www.linkedin.com/in/anshul-gupta-876b1032/</a><legacyquote>
+
+&lt;&lt;&lt; </legacyquote></quote>
+[2025-02-13 09:55:14.662000] live:.cid.91279bc277fdb584: Ohk
+[2025-02-13 09:55:14.662000] live:.cid.91279bc277fdb584: Ohk
+[2025-02-13 09:36:17.314000] live:.cid.c329471ec01b59ff: Tell them I will be late 
+[2025-02-13 09:52:57.244000] live:.cid.c329471ec01b59ff: Yes 
+[2025-02-13 09:37:11.203000] live:.cid.91279bc277fdb584: Your marketing guy provide the same name who took your interview?
+[2025-02-13 09:36:05.474000] live:.cid.c329471ec01b59ff: If they ask plzz update 
+[2025-02-13 09:36:00.485000] live:.cid.c329471ec01b59ff: Ok ok 
+[2025-02-13 09:35:39.940000] live:.cid.91279bc277fdb584: no one ask I just ping you
+[2025-02-13 09:35:18.017000] live:.cid.c329471ec01b59ff: 10:30 I will reach I guess 
+[2025-02-13 09:35:01.023000] live:.cid.c329471ec01b59ff: Did anyone ask me? 
+[2025-02-13 09:34:07.974000] live:.cid.c329471ec01b59ff: Missed my train, gonna be late 
+[2025-02-13 09:34:17.969000] live:.cid.91279bc277fdb584: Oh...k
+[2025-02-13 09:33:03.615000] live:.cid.91279bc277fdb584: Hi
+[2025-02-11 10:57:02.156000] live:.cid.c329471ec01b59ff: <partlist type="ended" alt="" callId="b00895b9-cf65-43f6-8774-c1ec6fa36e7d"><part identity="live:.cid.c329471ec01b59ff"><name>Sujay Chandra ITC BD</name><duration>191.921</duration></part><part identity="live:.cid.91279bc277fdb584"><name>Hitesh Dhamshaniya ITC</name><duration>191.921</duration></part></partlist>
+[2025-02-11 10:53:50.260000] live:.cid.c329471ec01b59ff: <partlist type="started" alt="" callId="b00895b9-cf65-43f6-8774-c1ec6fa36e7d"><part identity="live:.cid.c329471ec01b59ff"><name>Sujay Chandra ITC BD</name></part><part identity="live:.cid.91279bc277fdb584"><name>Hitesh Dhamshaniya ITC</name></part></partlist>
+[2025-02-11 10:29:28.276000] live:.cid.91279bc277fdb584: can&apos;t here you
+[2025-02-11 10:29:21.439000] live:.cid.91279bc277fdb584: <partlist type="ended" alt="" callId="e2fc1af3-58f4-4fd4-a34c-ae1c58e0b1b1"><part identity="live:.cid.91279bc277fdb584"><name>Hitesh Dhamshaniya ITC</name><duration>17.672</duration></part><part identity="live:.cid.c329471ec01b59ff"><name>Sujay Chandra ITC BD</name><duration>17.672</duration></part></partlist>
+
+
+Chat with: [SkypeSingleChat]
+Id: 8:live:.cid.915b87848be70fbf
+Alerts: True
+UserId: live:.cid.915b87848be70fbf
+--------------------------------------------------
+[2025-02-25 16:27:53.355000] live:.cid.c329471ec01b59ff: yes
+[2025-02-25 16:27:49.983000] live:.cid.915b87848be70fbf: is it active ?
+[2025-02-25 16:27:36.269000] live:.cid.c329471ec01b59ff: <quote author="live:.cid.915b87848be70fbf" authorname="Atul Qazi" timestamp="1740500830" conversation="8:live:.cid.915b87848be70fbf" messageid="1740500829872" cuid="6986155797067122777"><legacyquote>[1740500830] Atul Qazi: </legacyquote>.<legacyquote>
+
+&lt;&lt;&lt; </legacyquote></quote>yes
+[2025-02-25 16:27:09.412000] live:.cid.915b87848be70fbf: <quote author="live:.cid.c329471ec01b59ff" authorname="Sujay Chandra ITC BD" timestamp="1738150094" conversation="8:live:.cid.c329471ec01b59ff" messageid="1738150093952" cuid="11135561438918500415"><legacyquote>[1738150094] Sujay Chandra ITC BD: </legacyquote>sorry use this. W77 MDF 5XR<legacyquote>
+
+&lt;&lt;&lt; </legacyquote></quote>.
+[2025-02-25 16:26:49.418000] live:.cid.915b87848be70fbf: Can you check and confirm 
+[2025-02-25 16:26:34.345000] live:.cid.c329471ec01b59ff: I think old share code still active
+[2025-02-25 16:25:51.385000] live:.cid.c329471ec01b59ff: <quote author="live:.cid.915b87848be70fbf" authorname="Atul Qazi" timestamp="1740500727" conversation="8:live:.cid.915b87848be70fbf" messageid="1740500726777" cuid="2327473790401970537"><legacyquote>[1740500727] Atul Qazi: </legacyquote>dob is 09/11/1988 right ?<legacyquote>
+
+&lt;&lt;&lt; </legacyquote></quote>yes
+[2025-02-25 16:25:26.373000] live:.cid.915b87848be70fbf: dob is 09/11/1988 right ?
+[2025-02-25 16:25:08.118000] live:.cid.915b87848be70fbf: Can you send a new sharecode 
+[2025-02-25 16:25:01.586000] live:.cid.915b87848be70fbf: <at id="8:live:.cid.c329471ec01b59ff">Sujay</at> 
+[2025-02-25 16:25:00.064000] live:.cid.915b87848be70fbf: Hi 
+[2025-02-25 16:08:43.858000] live:.cid.915b87848be70fbf: <partlist type="ended" alt="" callId="4a099fee-a256-4849-9025-b2adcf501935"><part identity="live:.cid.915b87848be70fbf"><name>Atul Qazi</name><duration>469.448</duration></part><part identity="live:.cid.c329471ec01b59ff"><name>Sujay Chandra ITC BD</name><duration>469.448</duration></part></partlist>
+[2025-02-25 16:05:55.002000] live:.cid.915b87848be70fbf: Role:
+
+ Key Duties:
+
+•             Key duties and responsibilities We are a diverse team of: kayakers, skiers, boarders, hikers, gamers, data nerds (self-proclaimed,) dog people, cat people, all types of awesome people, a great family. 
+
+•             Collaborate with our clients to design and build modern data platforms using a variety of technologies
+
+•             Help lead the design and implementation of complex, cloud-based data ingestion and transformation pipelines Implement scalable and secure Data Lakes/Warehouses
+
+•             Mentor and upskill other engineers, both client and internal
+
+•             Help drive effective development patterns and delivery practices
+
+•             Help maintain and improve our internal tools and design patterns
+
+•             Continually improve with our internal development program, including mentoring and paid training/ certifications
+
+ 
+
+Preferred
+
+Powershell and/or Bash/UNIX/Linux shell scripting - for example: developing fully functioning server-side deployment scripts
+
+Experience developing on AWS, including a good understanding of the common data related services Experience working with the following:
+
+o            Orchestration tools, e.g. Airflow
+
+o            ELT / ETL, e.g. Spark
+
+o            Data modelling, e.g. Kimball, Inmon, Data Vault
+
+o            Containers
+
+o            Infrastructure-as-code, e.g. Terraform, Cloudformation
+
+o            Data Quality and Lineage
+
+Worked within an Agile environment
+
+A working knowledge of data regulations (e.g. GDPR)
+[2025-02-25 16:00:54.450000] live:.cid.915b87848be70fbf: <partlist type="started" alt="" callId="4a099fee-a256-4849-9025-b2adcf501935"><part identity="live:.cid.915b87848be70fbf"><name>Atul Qazi</name></part><part identity="live:.cid.c329471ec01b59ff"><name>Sujay Chandra ITC BD</name></part></partlist>
+[2025-02-25 16:00:27.809000] live:.cid.c329471ec01b59ff: ya
+[2025-02-25 16:00:24.892000] live:.cid.915b87848be70fbf: free now ?
+[2025-02-25 16:00:18.046000] live:.cid.915b87848be70fbf: Hi 
+[2025-02-25 15:59:13.355000] live:.cid.c329471ec01b59ff: Hi <at id="8:live:.cid.915b87848be70fbf">Atul</at> 
+[2025-02-25 15:22:59.582000] live:.cid.c329471ec01b59ff: sure
+[2025-02-25 15:22:36.846000] live:.cid.915b87848be70fbf: Lets speak when its completed 
+[2025-02-25 15:09:26.252000] live:.cid.915b87848be70fbf: and restart 
+[2025-02-25 15:09:21.070000] live:.cid.915b87848be70fbf: skype 
+[2025-02-25 15:09:19.533000] live:.cid.915b87848be70fbf: can you please to quite 
+[2025-02-25 15:08:41.745000] live:.cid.915b87848be70fbf: I will add you 
+[2025-02-25 15:06:51.057000] live:.cid.c329471ec01b59ff: Don’t want to risk connecting 
+[2025-02-25 15:06:37.629000] live:.cid.c329471ec01b59ff: Trying to join, having some issues 
+[2025-02-25 15:06:21.264000] live:.cid.915b87848be70fbf: ?
+[2025-02-25 15:05:11.889000] live:.cid.915b87848be70fbf: interview has started 
+[2025-02-25 15:05:04.926000] live:.cid.915b87848be70fbf: Can you join 
+[2025-02-25 14:59:09.932000] live:.cid.915b87848be70fbf: <partlist type="ended" alt="" callId="7c000914-6adc-45b5-9df6-ead4f40ee321"><part identity="live:.cid.915b87848be70fbf"><name>Atul Qazi</name><duration>12.055</duration></part><part identity="live:.cid.c329471ec01b59ff"><name>Sujay Chandra ITC BD</name><duration>12.055</duration></part></partlist>
+
+
+Chat with: [SkypeGroupChat]
+Id: 19:ebf21c2f80d342208dfa865cb4e11ccb@thread.skype
+Alerts: True
+Topic: London Office - Lockbox code 482
+CreatorId: david.anahory
+UserIds: live:.cid.88e9dd71be7f958e
+         live:.cid.f5cec7ab1bcd7a38
+         live:df68a801c4bf46e3
+         nbhartendu
+         divya.chitturi
+         live:wajeehqadri
+         live:.cid.af04a4a5f3ff7ab2
+         live:.cid.ab7d9a34d597ccf3
+         live:.cid.3ebf3a29f2ba092d
+         live:.cid.1bcd658dab82f9ad
+         live:.cid.c329471ec01b59ff
+         may_1380
+         live:.cid.779384275fa0a853
+         live:.cid.417d12685c6333c5
+         ramshadei
+         live:.cid.6eaf643f0f762b31
+         live:pet4lyph
+         live:liam.horrobin_1
+         live:refali92_1
+         live:chowdaryrk077
+         yasir-18
+         naresh.sampara
+         live:.cid.33c31a30baf5c0e
+         live:.cid.35db57a69e56c637
+         live:.cid.c87211b2836cbe39
+         live:.cid.fe721bbbd8f71008
+         jaruizavi
+         parthi205121
+         live:pathakratna
+         live:.cid.ab60313d90e78422
+         live:b5f64d07860137a7
+         live:.cid.e860377c1dfd80c8
+         live:.cid.2f380496fc8a417b
+         live:.cid.d84230de2cedcdde
+         live:.cid.ba399447f9ae6bf
+         live:arslanbhi33
+         live:junaydm
+         david.anahory
+         shale.vlad
+         live:arenwang1219
+         live:vikaskumar246
+         live:.cid.aa2165688f0a2ea9
+         live:.cid.47371f9254d8dbd2
+         live:.cid.db51610542d14a19
+         live:.cid.69c5f5a183f589ed
+         live:.cid.3518e99b8767853c
+         live:guyseutcheu
+         geethanjaligv
+         live:uma.rajagopal1
+         live:.cid.af7db9ccbf097ec6
+         kayanosh1
+         live:.cid.9bb44d8dfa240430
+         live:.cid.a66b656722460ea4
+         live:.cid.a87fc7edc227e2a6
+         sandragee2
+         live:ajaykumar.gurram5
+         live:stefancepeleaga
+         live:yvesduke06
+         darsana.b
+         live:pkarbassi
+         mansur.can
+         live:kalpesh.sevak
+         live:.cid.7837df5168a57749
+         live:santhoshjeyabal
+         asadkardame
+         vanathi50
+         live:e0a7a781571f5c90
+         live:.cid.9c9a8ab35fd16e1b
+         live:.cid.866db56a7c1236fc
+         live:mohanasundaram.moorthy
+         naveen.nair6
+         live:.cid.5fb9894b84c30794
+         live:.cid.656e353136439716
+         live:jmquilario_1
+         live:.cid.bc9978f6307dafdb
+         live:.cid.433dfee71c654485
+         live:.cid.c78ba9fea7d96706
+         live:cd33be4802c46d12
+         live:.cid.539e82361ca53253
+         varunvaddi
+         live:.cid.6520f9efe1396e4f
+         live:chencen
+         live:.cid.1afcf60237a355c0
+         live:tgrahesh
+         live:keyur2523_1
+         live:.cid.3c52d6216a4e99cc
+         live:manjiri.kawthe
+         live:prashobjoseph_1
+         live:thedeeptisingh
+         live:vinaypavanguntur_2
+         syed.monis4
+         live:.cid.1dbe456d194d0583
+         live:.cid.b66f21373b222074
+         live:.cid.a35b82a75051042a
+         live:khushbarve
+         live:8539b22d38a837
+         live:mrehan.ghuman
+         live:ademesoayodele
+         live:papamichaelm
+         live:.cid.24123aa55a8e7911
+         live:.cid.5be8ba8a4a75e006
+         live:.cid.2d4f086155239bb1
+         live:.cid.40855f29c654708b
+         live:kesavanpanneerselvam_1
+         live:.cid.2fa929108c9318fd
+         live:.cid.cccbd31798ab450e
+         live:.cid.67a5f85faa45a9cd
+         live:maungae
+         live:.cid.1f5eadbd8efc2044
+         live:.cid.10a10589d51698aa
+         live:.cid.aa8d763243845381
+         live:.cid.58d2b3786440ccbe
+         live:.cid.91279bc277fdb584
+         live:.cid.7ddea021b05eb5ab
+AdminIds: live:.cid.88e9dd71be7f958e
+          live:.cid.f5cec7ab1bcd7a38
+          live:df68a801c4bf46e3
+          nbhartendu
+          divya.chitturi
+          live:wajeehqadri
+          live:.cid.af04a4a5f3ff7ab2
+          live:.cid.ab7d9a34d597ccf3
+          live:.cid.3ebf3a29f2ba092d
+          live:.cid.1bcd658dab82f9ad
+          live:.cid.c329471ec01b59ff
+          may_1380
+          live:.cid.779384275fa0a853
+          live:.cid.417d12685c6333c5
+          ramshadei
+          live:.cid.6eaf643f0f762b31
+          live:pet4lyph
+          live:liam.horrobin_1
+          live:refali92_1
+          live:chowdaryrk077
+          yasir-18
+          naresh.sampara
+          live:.cid.33c31a30baf5c0e
+          live:.cid.35db57a69e56c637
+          live:.cid.c87211b2836cbe39
+          live:.cid.fe721bbbd8f71008
+          jaruizavi
+          parthi205121
+          live:pathakratna
+          live:.cid.ab60313d90e78422
+          live:b5f64d07860137a7
+          live:.cid.e860377c1dfd80c8
+          live:.cid.2f380496fc8a417b
+          live:.cid.d84230de2cedcdde
+          live:.cid.ba399447f9ae6bf
+          live:arslanbhi33
+          live:junaydm
+          david.anahory
+          shale.vlad
+          live:arenwang1219
+          live:vikaskumar246
+          live:.cid.aa2165688f0a2ea9
+          live:.cid.47371f9254d8dbd2
+          live:.cid.db51610542d14a19
+          live:.cid.69c5f5a183f589ed
+          live:.cid.3518e99b8767853c
+          live:guyseutcheu
+          geethanjaligv
+          live:uma.rajagopal1
+          live:.cid.af7db9ccbf097ec6
+          kayanosh1
+          live:.cid.9bb44d8dfa240430
+          live:.cid.a66b656722460ea4
+          live:.cid.a87fc7edc227e2a6
+          sandragee2
+          live:ajaykumar.gurram5
+          live:stefancepeleaga
+          live:yvesduke06
+          darsana.b
+          live:pkarbassi
+          mansur.can
+          live:kalpesh.sevak
+          live:.cid.7837df5168a57749
+          live:santhoshjeyabal
+          asadkardame
+          vanathi50
+          live:e0a7a781571f5c90
+          live:.cid.9c9a8ab35fd16e1b
+          live:.cid.866db56a7c1236fc
+          live:mohanasundaram.moorthy
+          naveen.nair6
+          live:.cid.5fb9894b84c30794
+          live:.cid.656e353136439716
+          live:jmquilario_1
+          live:.cid.bc9978f6307dafdb
+          live:.cid.433dfee71c654485
+          live:.cid.c78ba9fea7d96706
+          live:cd33be4802c46d12
+          live:.cid.539e82361ca53253
+          varunvaddi
+          live:.cid.6520f9efe1396e4f
+          live:chencen
+          live:.cid.1afcf60237a355c0
+          live:tgrahesh
+          live:keyur2523_1
+          live:.cid.3c52d6216a4e99cc
+          live:manjiri.kawthe
+          live:prashobjoseph_1
+          live:thedeeptisingh
+          live:vinaypavanguntur_2
+          syed.monis4
+          live:.cid.1dbe456d194d0583
+          live:.cid.b66f21373b222074
+          live:.cid.a35b82a75051042a
+          live:khushbarve
+          live:8539b22d38a837
+          live:ademesoayodele
+          live:papamichaelm
+          live:.cid.24123aa55a8e7911
+          live:.cid.5be8ba8a4a75e006
+          live:.cid.2d4f086155239bb1
+          live:.cid.40855f29c654708b
+          live:kesavanpanneerselvam_1
+          live:.cid.2fa929108c9318fd
+          live:.cid.cccbd31798ab450e
+          live:.cid.67a5f85faa45a9cd
+          live:maungae
+          live:.cid.1f5eadbd8efc2044
+          live:.cid.10a10589d51698aa
+          live:.cid.aa8d763243845381
+          live:.cid.58d2b3786440ccbe
+          live:.cid.91279bc277fdb584
+          live:.cid.7ddea021b05eb5ab
+Open: False
+History: True
+Picture: None
+Active: True
+Moderated: False
+--------------------------------------------------
+[2025-02-25 16:23:17.434000] david.anahory: <deletemember><eventtime>1740500598121</eventtime><initiator>8:david.anahory</initiator><target>8:live:mauro.arantes_1</target></deletemember>
+[2025-02-25 16:18:18.608000] live:.cid.3ebf3a29f2ba092d: <URIObject uri="https://api.asm.skype.com/v1/objects/0-weu-d9-2d2cb13fae57a04a5b65bbd6ace8ba3b" url_thumbnail="https://api.asm.skype.com/v1/objects/0-weu-d9-2d2cb13fae57a04a5b65bbd6ace8ba3b/views/original" type="File.1/Word.1" doc_id="0-weu-d9-2d2cb13fae57a04a5b65bbd6ace8ba3b">To view this file, go to: <a href="https://login.skype.com/login/sso?go=webclient.xmm&amp;docid=0-weu-d9-2d2cb13fae57a04a5b65bbd6ace8ba3b">https://login.skype.com/login/sso?go=webclient.xmm&amp;docid=0-weu-d9-2d2cb13fae57a04a5b65bbd6ace8ba3b</a><OriginalName v="Timesheet New Features and Modules.docx"></OriginalName><FileSize v="381609"></FileSize></URIObject>
+[2025-02-25 16:18:18.595000] live:.cid.3ebf3a29f2ba092d: <URIObject uri="https://api.asm.skype.com/v1/objects/0-weu-d10-12f0453aa76a9b7812b40e1eea584a8d" url_thumbnail="https://api.asm.skype.com/v1/objects/0-weu-d10-12f0453aa76a9b7812b40e1eea584a8d/views/original" type="File.1/PDF.1" doc_id="0-weu-d10-12f0453aa76a9b7812b40e1eea584a8d">To view this file, go to: <a href="https://login.skype.com/login/sso?go=webclient.xmm&amp;docid=0-weu-d10-12f0453aa76a9b7812b40e1eea584a8d">https://login.skype.com/login/sso?go=webclient.xmm&amp;docid=0-weu-d10-12f0453aa76a9b7812b40e1eea584a8d</a><OriginalName v="SOP - Access to Omega 2.pdf"></OriginalName><FileSize v="260868"></FileSize></URIObject>
+[2025-02-25 16:18:15.112000] live:.cid.3ebf3a29f2ba092d: Hi <at id="*">all</at>,
+
+Just a quick reminder:
+
+Contrary to the previous process of emailing your timesheets, please note that starting this month (February), the new process will be in place. I&apos;ve attached the new process document below. You will not be paid unless you follow the new instructions.
+
+Please reach out if you need any assistance.
+
+Also, when you return to marketing, there will be a different process, and the details will be shared when required.
+
+Thank you!
+[2025-02-25 09:11:54.541000] live:.cid.e860377c1dfd80c8: Good morning, office 
+[2025-02-25 09:11:54.541000] live:.cid.e860377c1dfd80c8: Good morning, office 
+[2025-02-25 10:12:43.898000] live:.cid.47371f9254d8dbd2: Good morning office 
+[2025-02-25 09:11:54.541000] live:.cid.e860377c1dfd80c8: Good morning, office 
+[2025-02-25 09:08:17.765000] live:manjiri.kawthe: Good morning, WFH!
+[2025-02-25 09:05:23.016000] live:.cid.c329471ec01b59ff: Good morning. WFH
+[2025-02-25 09:03:15.919000] live:.cid.ab60313d90e78422: Good morning, wfh. 
+[2025-02-25 09:02:43.309000] ramshadei: Good morning wfh
+[2025-02-25 09:01:56.573000] live:.cid.db51610542d14a19: Good morning wfh
+[2025-02-25 09:01:27.336000] live:khushbarve: Good morning wfh
+[2025-02-25 09:01:13.289000] live:.cid.58d2b3786440ccbe: Good morning, WFH
+[2025-02-25 09:00:51.993000] live:.cid.aa8d763243845381: Good Morning, wfh
+[2025-02-25 09:00:02.647000] live:b5f64d07860137a7: Good morning, WFH
+[2025-02-25 08:59:15.528000] live:.cid.91279bc277fdb584: Good morning 
+[2025-02-25 08:58:22.230000] live:thedeeptisingh: Good morning, wfh
+[2025-02-25 08:58:18.391000] live:.cid.779384275fa0a853: Goodmorning,wfh
+[2025-02-25 08:58:09.336000] live:vinaypavanguntur_2: Good morning wfh
+[2025-02-25 08:57:37.971000] may_1380: Good Morning, WFH
+[2025-02-25 08:57:19.486000] live:.cid.33c31a30baf5c0e: Good Morning wfh
+[2025-02-25 08:57:04.101000] live:guyseutcheu: Good Morning wfh
+
+[2025-02-25 08:56:42.121000] live:.cid.aa2165688f0a2ea9: Good Morning, WFH
+[2025-02-25 08:56:22.076000] live:.cid.2f380496fc8a417b: Good Morning, WFH
+[2025-02-25 08:56:05.194000] live:.cid.88e9dd71be7f958e: Good morning, WFH 
+[2025-02-25 08:40:38.390000] live:.cid.d84230de2cedcdde: Good morning, WFH 
+[2025-02-24 09:11:04.666000] live:.cid.3ebf3a29f2ba092d: <at id="*">all</at> Good morning, team! Since <at id="8:live:.cid.ab7d9a34d597ccf3">Sahal</at> and <at id="8:live:.cid.af7db9ccbf097ec6">Mirella</at> will be out this week, please reach out to me if there&apos;s anything you need. Thanks!
+[2025-02-24 09:22:04.908000] live:b5f64d07860137a7: Good morning, WFH <e_m a="live:b5f64d07860137a7" ts_ms="1740388906510" ts="1740388906" t="61"></e_m>
+
+
+Chat with: [SkypeGroupChat]
+Id: 19:aba7d996f4f348dcbc2ad9c37b014405@thread.skype
+Alerts: True
+Topic: ITC Tech Collaboration
+CreatorId: live:.cid.af7db9ccbf097ec6;cid=-5801276455953793338;skypeid=live:.cid.af7db9ccbf097ec6
+UserIds: live:.cid.ab7d9a34d597ccf3
+         live:.cid.88e9dd71be7f958e
+         live:.cid.3ebf3a29f2ba092d
+         may_1380
+         ramshadei
+         live:.cid.c329471ec01b59ff
+         live:.cid.45ca44d45cc43814
+         live:.cid.a7ba012e54cde1fd
+         live:b5f64d07860137a7
+         jaruizavi
+         live:.cid.e860377c1dfd80c8
+         live:.cid.33c31a30baf5c0e
+         live:.cid.ab60313d90e78422
+         live:.cid.aa2165688f0a2ea9
+         live:.cid.db51610542d14a19
+         live:.cid.18ff2b5031c57898
+         david.anahory
+         live:.cid.2f380496fc8a417b
+         live:.cid.47371f9254d8dbd2
+         live:.cid.8d5a97b16a35e030
+         live:.cid.af7db9ccbf097ec6
+         live:guyseutcheu
+         live:.cid.5fda3f3146b893af
+         vanathi50
+         live:.cid.97b7b6c420224d72
+         live:.cid.c78ba9fea7d96706
+         live:ian.desena
+         live:manjiri.kawthe
+         live:.cid.b90b4f4ebacb4e3f
+         live:thedeeptisingh
+         live:vinaypavanguntur_2
+         live:.cid.24123aa55a8e7911
+         live:.cid.58d2b3786440ccbe
+         live:.cid.cccbd31798ab450e
+         live:.cid.2fa929108c9318fd
+         live:.cid.91279bc277fdb584
+         live:.cid.5be8ba8a4a75e006
+         live:.cid.455a94ee82359a26
+         live:.cid.aa8d763243845381
+AdminIds: live:.cid.ab7d9a34d597ccf3
+          live:.cid.88e9dd71be7f958e
+          live:.cid.3ebf3a29f2ba092d
+          may_1380
+          ramshadei
+          live:.cid.c329471ec01b59ff
+          live:.cid.45ca44d45cc43814
+          live:.cid.a7ba012e54cde1fd
+          live:b5f64d07860137a7
+          jaruizavi
+          live:.cid.e860377c1dfd80c8
+          live:.cid.33c31a30baf5c0e
+          live:.cid.ab60313d90e78422
+          live:.cid.aa2165688f0a2ea9
+          live:.cid.db51610542d14a19
+          live:.cid.18ff2b5031c57898
+          david.anahory
+          live:.cid.2f380496fc8a417b
+          live:.cid.47371f9254d8dbd2
+          live:.cid.8d5a97b16a35e030
+          live:.cid.af7db9ccbf097ec6
+          live:guyseutcheu
+          live:.cid.5fda3f3146b893af
+          vanathi50
+          live:.cid.97b7b6c420224d72
+          live:.cid.c78ba9fea7d96706
+          live:ian.desena
+          live:manjiri.kawthe
+          live:.cid.b90b4f4ebacb4e3f
+          live:thedeeptisingh
+          live:vinaypavanguntur_2
+          live:.cid.24123aa55a8e7911
+          live:.cid.58d2b3786440ccbe
+          live:.cid.cccbd31798ab450e
+          live:.cid.2fa929108c9318fd
+          live:.cid.91279bc277fdb584
+          live:.cid.5be8ba8a4a75e006
+          live:.cid.455a94ee82359a26
+          live:.cid.aa8d763243845381
+Open: True
+History: True
+Picture: None
+Active: True
+Moderated: False
+--------------------------------------------------
+[2025-02-25 16:17:08.761000] live:.cid.cccbd31798ab450e: <addmember><eventtime>1740500228761</eventtime><initiator>8:live:.cid.cccbd31798ab450e</initiator><target>8:live:ian.desena</target></addmember>
+[2025-02-17 15:20:22.457000] live:.cid.8d5a97b16a35e030: <URIObject format_version="1.1" type="Video.2/CallRecording.1" url_thumbnail="https://api.asm.skype.com/v1/objects/0-jhb-d2-03dc5e8f56d55039515b997271f0c933/views/thumbnail_small" uri="https://api.asm.skype.com/v1/objects/0-jhb-d2-03dc5e8f56d55039515b997271f0c933" version="1.0"><RecordingStatus status="Success" code="200"><amsErrorResult /></RecordingStatus><SessionEndReason value="InitiatorLeft" /><ChunkEndReason value="SessionEnded" /><Title>Video</Title><a href="https://login.skype.com/login/sso?go=webclient.xmm&amp;am=0-jhb-d2-03dc5e8f56d55039515b997271f0c933">Play</a><OriginalName v="Video-20250217_152021-Meeting Recording.mp4" /><MeetingOrganizerId value="" /><MeetingOrganizerTenantId value="" /><RecordingInitiatorId value="8:live:.cid.8d5a97b16a35e030" /><CallProcessingId value="" /><ICalUid value="" /><Identifiers><Id type="callId" value="8db892f4-7d83-4287-af29-25b7710696e3" /><Id type="callLegId" value="3ef6b265-cfd7-4403-9fb5-2a464613e837" /><Id type="chunkIndex" value="0" /><Id type="AMSDocumentID" value="0-jhb-d2-03dc5e8f56d55039515b997271f0c933" /><Id type="StreamVideoId" value="" /></Identifiers><RecordingContent contentTypes="Recording" timestamp="2025-02-17T14:13:02.5905138Z" duration="1:06:14.3" canVideoExpire="False"><item type="video" uri="https://api.asm.skype.com/v1/objects/0-jhb-d2-03dc5e8f56d55039515b997271f0c933" /><item type="amsVideo" uri="https://api.asm.skype.com/v1/objects/0-jhb-d2-03dc5e8f56d55039515b997271f0c933" /><item type="amsTranscript" uri="" /><item type="rosterevents" uri="https://api.asm.skype.com/v1/objects/0-jhb-d2-03dc5e8f56d55039515b997271f0c933/views/rosterevents" /></RecordingContent></URIObject>
+[2025-02-17 15:19:45.426000] live:.cid.88e9dd71be7f958e: <partlist type="ended" alt=""><part identity="live:.cid.aa2165688f0a2ea9"><name>live:.cid.aa2165688f0a2ea9</name><duration>4217</duration></part><part identity="live:.cid.47371f9254d8dbd2"><name>live:.cid.47371f9254d8dbd2</name><duration>4217</duration></part><part identity="5dad43e6-3db1-435f-b8ee-7b0a759c658f"><name>5dad43e6-3db1-435f-b8ee-7b0a759c658f</name><duration>4217</duration></part><part identity="may_1380"><name>may_1380</name><duration>4217</duration></part><part identity="live:.cid.91279bc277fdb584"><name>live:.cid.91279bc277fdb584</name><duration>4217</duration></part><part identity="live:.cid.2f380496fc8a417b"><name>live:.cid.2f380496fc8a417b</name><duration>4217</duration></part><part identity="live:.cid.33c31a30baf5c0e"><name>live:.cid.33c31a30baf5c0e</name><duration>4217</duration></part><part identity="live:.cid.58d2b3786440ccbe"><name>live:.cid.58d2b3786440ccbe</name><duration>4217</duration></part><part identity="live:thedeeptisingh"><name>live:thedeeptisingh</name><duration>4217</duration></part><part identity="ramshadei"><name>ramshadei</name><duration>4217</duration></part><part identity="live:.cid.c329471ec01b59ff"><name>live:.cid.c329471ec01b59ff</name><duration>4217</duration></part><part identity="live:.cid.8d5a97b16a35e030"><name>live:.cid.8d5a97b16a35e030</name><duration>4217</duration></part><part identity="live:.cid.45ca44d45cc43814"><name>live:.cid.45ca44d45cc43814</name><duration>4217</duration></part><part identity="live:.cid.e860377c1dfd80c8"><name>live:.cid.e860377c1dfd80c8</name><duration>4217</duration></part><part identity="0ad9717e-76fd-4658-a764-beaf21698977"><name>0ad9717e-76fd-4658-a764-beaf21698977</name><duration>4217</duration></part><part identity="live:.cid.ab60313d90e78422"><name>live:.cid.ab60313d90e78422</name><duration>4217</duration></part><part identity="live:.cid.88e9dd71be7f958e"><name>live:.cid.88e9dd71be7f958e</name><duration>4217</duration></part><part identity="vanathi50"><name>vanathi50</name><duration>4217</duration></part><part identity="live:b5f64d07860137a7"><name>live:b5f64d07860137a7</name><duration>4217</duration></part><part identity="live:.cid.24123aa55a8e7911"><name>live:.cid.24123aa55a8e7911</name><duration>4217</duration></part><part identity="live:.cid.455a94ee82359a26"><name>live:.cid.455a94ee82359a26</name><duration>4217</duration></part><part identity="live:.cid.db51610542d14a19"><name>live:.cid.db51610542d14a19</name><duration>4217</duration></part><part identity="live:.cid.af7db9ccbf097ec6"><name>live:.cid.af7db9ccbf097ec6</name><duration>4217</duration></part></partlist>
+[2025-02-17 15:11:28.687000] live:.cid.8d5a97b16a35e030: code smells
+[2025-02-17 15:00:18.022000] live:.cid.8d5a97b16a35e030: debt<e_m a="live:.cid.8d5a97b16a35e030" ts_ms="1739804415802" ts="1739804415" t="61"></e_m>
+[2025-02-17 15:00:11.420000] live:.cid.8d5a97b16a35e030: debt<e_m a="live:.cid.8d5a97b16a35e030" ts_ms="1739804415802" ts="1739804415" t="61"></e_m>
+[2025-02-17 14:34:52.897000] live:.cid.8d5a97b16a35e030: 1, 2, 3, 5, 8, 13
+[2025-02-17 14:34:26.930000] live:.cid.8d5a97b16a35e030: fibonacci
+[2025-02-17 14:09:29.816000] live:.cid.8d5a97b16a35e030: Hi <at id="*">all</at> 
+[2025-02-17 14:19:58.342000] live:.cid.cccbd31798ab450e: <addmember><eventtime>1739801998342</eventtime><initiator>8:live:.cid.cccbd31798ab450e</initiator><target>8:live:.cid.a7ba012e54cde1fd</target></addmember>
+[2025-02-17 14:09:29.202000] live:.cid.8d5a97b16a35e030: <partlist type="started" alt=""><part identity="live:.cid.8d5a97b16a35e030"><name>live:.cid.8d5a97b16a35e030</name></part></partlist>
+[2025-02-17 14:09:16.967000] live:.cid.8d5a97b16a35e030: <partlist type="ended" alt=""><part identity="live:b5f64d07860137a7"><name>live:b5f64d07860137a7</name><duration>26</duration></part><part identity="live:.cid.8d5a97b16a35e030"><name>live:.cid.8d5a97b16a35e030</name><duration>26</duration></part></partlist>
+[2025-02-17 14:08:52.056000] live:.cid.8d5a97b16a35e030: <partlist type="started" alt=""><part identity="live:.cid.8d5a97b16a35e030"><name>live:.cid.8d5a97b16a35e030</name></part></partlist>
+[2025-02-14 10:41:31.548000] live:.cid.cccbd31798ab450e: <at id="*">all</at> there will be a session on Agile methodology on Monday 2to 3 PM by <at id="8:live:.cid.8d5a97b16a35e030">MJ</at> make sure to attend
+[2025-02-12 13:12:42.930000] live:.cid.47371f9254d8dbd2: Thank you so much <at id="8:live:.cid.b90b4f4ebacb4e3f">Firdous</at> 
+[2025-02-12 13:12:10.172000] live:.cid.e860377c1dfd80c8: Thank you firdous.
+[2025-02-12 13:12:20.330000] live:.cid.aa2165688f0a2ea9: <partlist type="ended" alt=""><part identity="live:.cid.88e9dd71be7f958e"><name>live:.cid.88e9dd71be7f958e</name><duration>4145</duration></part><part identity="live:.cid.2f380496fc8a417b"><name>live:.cid.2f380496fc8a417b</name><duration>4145</duration></part><part identity="live:.cid.b90b4f4ebacb4e3f"><name>live:.cid.b90b4f4ebacb4e3f</name><duration>4145</duration></part><part identity="live:.cid.45ca44d45cc43814"><name>live:.cid.45ca44d45cc43814</name><duration>4145</duration></part><part identity="live:vinaypavanguntur_2"><name>live:vinaypavanguntur_2</name><duration>4145</duration></part><part identity="live:.cid.455a94ee82359a26"><name>live:.cid.455a94ee82359a26</name><duration>4145</duration></part><part identity="live:.cid.aa2165688f0a2ea9"><name>live:.cid.aa2165688f0a2ea9</name><duration>4145</duration></part><part identity="live:.cid.e860377c1dfd80c8"><name>live:.cid.e860377c1dfd80c8</name><duration>4145</duration></part><part identity="live:.cid.47371f9254d8dbd2"><name>live:.cid.47371f9254d8dbd2</name><duration>4145</duration></part><part identity="vanathi50"><name>vanathi50</name><duration>4145</duration></part><part identity="5dad43e6-3db1-435f-b8ee-7b0a759c658f"><name>5dad43e6-3db1-435f-b8ee-7b0a759c658f</name><duration>4145</duration></part><part identity="live:b5f64d07860137a7"><name>live:b5f64d07860137a7</name><duration>4145</duration></part><part identity="live:.cid.aa8d763243845381"><name>live:.cid.aa8d763243845381</name><duration>4145</duration></part><part identity="live:.cid.91279bc277fdb584"><name>live:.cid.91279bc277fdb584</name><duration>4145</duration></part><part identity="live:.cid.33c31a30baf5c0e"><name>live:.cid.33c31a30baf5c0e</name><duration>4145</duration></part><part identity="live:thedeeptisingh"><name>live:thedeeptisingh</name><duration>4145</duration></part><part identity="may_1380"><name>may_1380</name><duration>4145</duration></part><part identity="live:manjiri.kawthe"><name>live:manjiri.kawthe</name><duration>4145</duration></part><part identity="0ad9717e-76fd-4658-a764-beaf21698977"><name>0ad9717e-76fd-4658-a764-beaf21698977</name><duration>4145</duration></part><part identity="live:.cid.58d2b3786440ccbe"><name>live:.cid.58d2b3786440ccbe</name><duration>4145</duration></part><part identity="live:.cid.db51610542d14a19"><name>live:.cid.db51610542d14a19</name><duration>4145</duration></part><part identity="ramshadei"><name>ramshadei</name><duration>4145</duration></part><part identity="live:guyseutcheu"><name>live:guyseutcheu</name><duration>4145</duration></part></partlist>
+[2025-02-12 13:12:17.042000] live:.cid.b90b4f4ebacb4e3f: <URIObject format_version="1.1" type="Video.2/CallRecording.1" url_thumbnail="https://api.asm.skype.com/v1/objects/0-jhb-d2-8e202dd7acb20ab21dc82d26511266ee/views/thumbnail_small" uri="https://api.asm.skype.com/v1/objects/0-jhb-d2-8e202dd7acb20ab21dc82d26511266ee" version="1.0"><RecordingStatus status="Success" code="200"><amsErrorResult /></RecordingStatus><SessionEndReason value="InitiatorLeft" /><ChunkEndReason value="SessionEnded" /><Title>Video</Title><a href="https://login.skype.com/login/sso?go=webclient.xmm&amp;am=0-jhb-d2-8e202dd7acb20ab21dc82d26511266ee">Play</a><OriginalName v="Video-20250212_131216-Meeting Recording.mp4" /><MeetingOrganizerId value="" /><MeetingOrganizerTenantId value="" /><RecordingInitiatorId value="8:live:.cid.b90b4f4ebacb4e3f" /><CallProcessingId value="" /><ICalUid value="" /><Identifiers><Id type="callId" value="913fb261-eaa2-4e38-9b69-fed868083ef7" /><Id type="callLegId" value="ed2f5651-50bf-4f51-be32-d97efb7c9f6c" /><Id type="chunkIndex" value="0" /><Id type="AMSDocumentID" value="0-jhb-d2-8e202dd7acb20ab21dc82d26511266ee" /><Id type="StreamVideoId" value="" /></Identifiers><RecordingContent contentTypes="Recording" timestamp="2025-02-12T12:04:38.2354329Z" duration="1:07:05.72" canVideoExpire="False"><item type="video" uri="https://api.asm.skype.com/v1/objects/0-jhb-d2-8e202dd7acb20ab21dc82d26511266ee" /><item type="amsVideo" uri="https://api.asm.skype.com/v1/objects/0-jhb-d2-8e202dd7acb20ab21dc82d26511266ee" /><item type="amsTranscript" uri="" /><item type="rosterevents" uri="https://api.asm.skype.com/v1/objects/0-jhb-d2-8e202dd7acb20ab21dc82d26511266ee/views/rosterevents" /></RecordingContent></URIObject>
+[2025-02-12 13:11:58.186000] live:.cid.91279bc277fdb584: Thank you <at id="8:live:.cid.b90b4f4ebacb4e3f">Firdous</at> Its informative <ss type="yes" utf="👍">(y)</ss>
+[2025-02-12 13:07:14.068000] live:.cid.e860377c1dfd80c8: rebase gives us a linear history
+merge maintain the head<e_m a="live:.cid.e860377c1dfd80c8" ts_ms="1739365589214" ts="1739365589" t="61"></e_m>
+[2025-02-12 13:06:29.214000] live:.cid.e860377c1dfd80c8: rebase gives us a linear history
+merge maintain the head<e_m a="live:.cid.e860377c1dfd80c8" ts_ms="1739365589214" ts="1739365589" t="61"></e_m>
+[2025-02-12 12:48:35.587000] live:.cid.b90b4f4ebacb4e3f: hard reset
+[2025-02-12 12:48:33.249000] live:.cid.b90b4f4ebacb4e3f: soft reset
+[2025-02-12 12:03:16.645000] live:.cid.b90b4f4ebacb4e3f: <partlist type="started" alt=""><part identity="live:.cid.b90b4f4ebacb4e3f"><name>live:.cid.b90b4f4ebacb4e3f</name></part></partlist>
+[2025-02-12 12:01:02.527000] live:.cid.b90b4f4ebacb4e3f: <at id="*">all</at> calling in 2 mins
+[2025-02-10 18:08:14.368000] live:.cid.cccbd31798ab450e: <URIObject type="Picture.1" width="402" height="655" uri="https://api.asm.skype.com/v1/objects/0-weu-d9-31eed188d12fffc13decc737da5cfbd5" url_thumbnail="https://api.asm.skype.com/v1/objects/0-weu-d9-31eed188d12fffc13decc737da5cfbd5/views/imgt1">live:.cid.cccbd31798ab450e sent a photo.
+
+This device doesn't support Skype's new photo sharing features yet, but you can still view it in your browser here: <a href="https://api.asm.skype.com/s/i?0-weu-d9-31eed188d12fffc13decc737da5cfbd5">https://api.asm.skype.com/s/i?0-weu-d9-31eed188d12fffc13decc737da5cfbd5</a><OriginalName v=""/><meta type="photo" originalName=""/></URIObject>
+[2025-02-10 11:54:42.773000] live:.cid.e860377c1dfd80c8: thank you.
+[2025-02-10 11:55:11.244000] live:.cid.47371f9254d8dbd2: Thank you for the informative session!!! <at id="8:live:.cid.b90b4f4ebacb4e3f">Firdous</at> 
+[2025-02-10 11:54:32.750000] live:.cid.88e9dd71be7f958e: Thanks 
+[2025-02-10 11:55:40.254000] live:thedeeptisingh: <partlist type="ended" alt=""><part identity="live:thedeeptisingh"><name>live:thedeeptisingh</name><duration>3314</duration></part><part identity="live:.cid.aa8d763243845381"><name>live:.cid.aa8d763243845381</name><duration>3314</duration></part><part identity="live:b5f64d07860137a7"><name>live:b5f64d07860137a7</name><duration>3314</duration></part><part identity="live:.cid.db51610542d14a19"><name>live:.cid.db51610542d14a19</name><duration>3314</duration></part><part identity="ramshadei"><name>ramshadei</name><duration>3314</duration></part><part identity="live:.cid.aa2165688f0a2ea9"><name>live:.cid.aa2165688f0a2ea9</name><duration>3314</duration></part><part identity="jaruizavi"><name>jaruizavi</name><duration>3314</duration></part><part identity="ab5d1521-415b-4380-82e4-af803fb8bf2d"><name>ab5d1521-415b-4380-82e4-af803fb8bf2d</name><duration>3314</duration></part><part identity="live:vinaypavanguntur_2"><name>live:vinaypavanguntur_2</name><duration>3314</duration></part><part identity="vanathi50"><name>vanathi50</name><duration>3314</duration></part><part identity="live:manjiri.kawthe"><name>live:manjiri.kawthe</name><duration>3314</duration></part><part identity="may_1380"><name>may_1380</name><duration>3314</duration></part><part identity="live:.cid.33c31a30baf5c0e"><name>live:.cid.33c31a30baf5c0e</name><duration>3314</duration></part><part identity="live:.cid.47371f9254d8dbd2"><name>live:.cid.47371f9254d8dbd2</name><duration>3314</duration></part><part identity="live:.cid.2f380496fc8a417b"><name>live:.cid.2f380496fc8a417b</name><duration>3314</duration></part><part identity="live:.cid.e860377c1dfd80c8"><name>live:.cid.e860377c1dfd80c8</name><duration>3314</duration></part><part identity="live:.cid.b90b4f4ebacb4e3f"><name>live:.cid.b90b4f4ebacb4e3f</name><duration>3314</duration></part><part identity="live:.cid.af7db9ccbf097ec6"><name>live:.cid.af7db9ccbf097ec6</name><duration>3314</duration></part><part identity="0ad9717e-76fd-4658-a764-beaf21698977"><name>0ad9717e-76fd-4658-a764-beaf21698977</name><duration>3314</duration></part><part identity="live:.cid.91279bc277fdb584"><name>live:.cid.91279bc277fdb584</name><duration>3314</duration></part><part identity="live:.cid.455a94ee82359a26"><name>live:.cid.455a94ee82359a26</name><duration>3314</duration></part><part identity="live:.cid.45ca44d45cc43814"><name>live:.cid.45ca44d45cc43814</name><duration>3314</duration></part><part identity="live:.cid.88e9dd71be7f958e"><name>live:.cid.88e9dd71be7f958e</name><duration>3314</duration></part><part identity="5dad43e6-3db1-435f-b8ee-7b0a759c658f"><name>5dad43e6-3db1-435f-b8ee-7b0a759c658f</name><duration>3314</duration></part><part identity="live:guyseutcheu"><name>live:guyseutcheu</name><duration>3314</duration></part></partlist>
+
+
+Chat with: [SkypeSingleChat]
+Id: 48:calllogs
+Alerts: True
+UserId: calllogs
+--------------------------------------------------
+[2025-02-25 16:12:24.306000] live:.cid.c329471ec01b59ff: Call Logs for Call 1feb25b5-019a-464a-af79-c118be03f3f6
+[2025-02-25 16:08:44.102000] live:.cid.c329471ec01b59ff: Call Logs for Call 4a099fee-a256-4849-9025-b2adcf501935
+[2025-02-25 15:55:21.494000] live:.cid.c329471ec01b59ff: Call Logs for Call dc331f5e-391a-46d1-b0c4-8ffaf6395397
+[2025-02-25 15:18:57.239000] live:.cid.c329471ec01b59ff: Call Logs for Call dc331f5e-391a-46d1-b0c4-8ffaf6395397
+[2025-02-25 14:59:10.134000] live:.cid.c329471ec01b59ff: Call Logs for Call 7c000914-6adc-45b5-9df6-ead4f40ee321
+[2025-02-25 11:56:36.562000] live:.cid.c329471ec01b59ff: Call Logs for Call b3b46513-a9d9-4ca3-aa88-06f0e433d7c1
+[2025-02-25 11:55:21.898000] live:.cid.c329471ec01b59ff: Call Logs for Call 6855813e-e67a-4b44-b7ff-6026d546b572
+[2025-02-25 11:39:04.663000] live:.cid.c329471ec01b59ff: Call Logs for Call 6855813e-e67a-4b44-b7ff-6026d546b572
+[2025-02-25 09:55:01.108000] live:.cid.c329471ec01b59ff: Call Logs for Call 5100ae46-ee4b-4c62-9b28-bb8b2cf36c2f
+[2025-02-24 15:34:37.496000] live:.cid.c329471ec01b59ff: Call Logs for Call 166591bd-b053-481b-9199-4d20e6797d4c
+[2025-02-24 11:55:01.377000] live:.cid.c329471ec01b59ff: Call Logs for Call 18339488-a06c-4113-acf5-94bcec59c28a
+[2025-02-24 10:24:05.914000] live:.cid.c329471ec01b59ff: Call Logs for Call af50b15c-7254-4912-95b8-74ac5c49f11d
+[2025-02-24 09:33:52.569000] live:.cid.c329471ec01b59ff: Call Logs for Call ed418c46-8129-44e6-bdd5-0def572292f7
+[2025-02-21 17:35:14.524000] live:.cid.c329471ec01b59ff: Call Logs for Call 36e133b2-7541-477b-acfe-9074262b127a
+[2025-02-21 17:20:21.384000] live:.cid.c329471ec01b59ff: Call Logs for Call 7a57a616-4e50-499f-97c8-b175d0e15c49
+[2025-02-21 16:51:15.039000] live:.cid.c329471ec01b59ff: Call Logs for Call a1b32a36-0bc3-4fcc-988a-de9d1b41c342
+[2025-02-21 15:54:44.459000] live:.cid.c329471ec01b59ff: Call Logs for Call 71b6575a-5546-4147-abcb-70d2ff2aece9
+[2025-02-21 15:32:12.391000] live:.cid.c329471ec01b59ff: Call Logs for Call f889898c-4003-4b24-84ac-639021acff68
+[2025-02-21 14:10:58.028000] live:.cid.c329471ec01b59ff: Call Logs for Call 163f7d9f-2096-4d88-ad5c-77e934df6061
+[2025-02-21 12:22:14.406000] live:.cid.c329471ec01b59ff: Call Logs for Call 8ae07b23-042b-40e8-8007-0d2dcc855604
+[2025-02-21 10:23:18.617000] live:.cid.c329471ec01b59ff: Call Logs for Call 597654cf-5fba-4b70-9bf0-fefe16676a92
+[2025-02-20 11:41:31.162000] live:.cid.c329471ec01b59ff: Call Logs for Call 88f3fa58-2175-4493-8bac-ab627eca1131
+[2025-02-20 11:36:09.959000] live:.cid.c329471ec01b59ff: Call Logs for Call f343ab7b-7bf6-4386-a1b3-8f882223cbe0
+[2025-02-20 10:52:12.934000] live:.cid.c329471ec01b59ff: Call Logs for Call f343ab7b-7bf6-4386-a1b3-8f882223cbe0
+[2025-02-19 15:45:08.914000] live:.cid.c329471ec01b59ff: Call Logs for Call a9424d20-1d76-4126-9373-92ba3681a8c3
+[2025-02-19 11:14:47.413000] live:.cid.c329471ec01b59ff: Call Logs for Call a2b9b353-a1f7-405d-a1d5-001148fab552
+[2025-02-19 11:07:08.589000] live:.cid.c329471ec01b59ff: Call Logs for Call b2b24db9-6bd2-4e6d-9081-9ba950e77b2e
+[2025-02-18 17:13:26.619000] live:.cid.c329471ec01b59ff: Call Logs for Call dadeccfb-bd22-45bf-9c34-5a926733b64c
+[2025-02-18 16:27:37.797000] live:.cid.c329471ec01b59ff: Call Logs for Call a1804561-0c93-44a5-ac1a-f76b27e8ffce
+[2025-02-18 15:07:06.900000] live:.cid.c329471ec01b59ff: Call Logs for Call 6566be8a-4f6a-433a-9d17-a43c2ed90c46
+
+
+Chat with: [SkypeGroupChat]
+Id: 19:c723820ee8c74df6a0a1f07eb5f7245a@thread.skype
+Alerts: True
+Topic: Internal BigData Devs 
+CreatorId: live:.cid.91279bc277fdb584;skypeid=live:.cid.91279bc277fdb584
+UserIds: live:.cid.88e9dd71be7f958e
+         live:.cid.45ca44d45cc43814
+         live:.cid.c329471ec01b59ff
+         live:.cid.33c31a30baf5c0e
+         live:.cid.db51610542d14a19
+         live:.cid.91279bc277fdb584
+         live:.cid.58d2b3786440ccbe
+AdminIds: live:.cid.88e9dd71be7f958e
+          live:.cid.45ca44d45cc43814
+          live:.cid.c329471ec01b59ff
+          live:.cid.33c31a30baf5c0e
+          live:.cid.db51610542d14a19
+          live:.cid.91279bc277fdb584
+          live:.cid.58d2b3786440ccbe
+Open: True
+History: True
+Picture: https://api.asm.skype.com/v1/objects/0-weu-d9-86293a681d21e7cde99200b967c822be
+Active: True
+Moderated: False
+--------------------------------------------------
+[2025-02-25 16:00:21.919000] live:.cid.c329471ec01b59ff: <quote author="live:.cid.88e9dd71be7f958e" authorname="Obinna ITC BD" timestamp="1740486606" conversation="19:c723820ee8c74df6a0a1f07eb5f7245a@thread.skype" messageid="1740486605996" cuid="7579644726336639403"><legacyquote>[1740486606] Obinna ITC BD: </legacyquote>Hello syed 
+I was looking up my interview er for the interview tomorrow. 
+Some things are just red flags which I am not confident in.
+1. Onsite interview.
+2. My interviewers are tech experts.
+3. One of the interviewers worked at Natwest same period my CV claimed I worked with natwest.
+
+I strongly feel this will not end well and will seriously impact my morale and further interviews.
+
+Please kindly review the decision to attend and let me know the way forward. 
+
+Thank you<legacyquote>
+
+&lt;&lt;&lt; </legacyquote></quote>got any answer?
+[2025-02-25 12:32:18.340000] live:.cid.88e9dd71be7f958e: Waiting for answer
+[2025-02-25 12:32:05.441000] live:.cid.91279bc277fdb584: what he said or waiting for the answer
+[2025-02-25 12:30:05.260000] live:.cid.88e9dd71be7f958e: Hello syed 
+I was looking up my interview er for the interview tomorrow. 
+Some things are just red flags which I am not confident in.
+1. Onsite interview.
+2. My interviewers are tech experts.
+3. One of the interviewers worked at Natwest same period my CV claimed I worked with natwest.
+
+I strongly feel this will not end well and will seriously impact my morale and further interviews.
+
+Please kindly review the decision to attend and let me know the way forward. 
+
+Thank you
+[2025-02-25 12:22:14.074000] live:.cid.91279bc277fdb584: have you talk with Marketing manager?
+[2025-02-25 12:21:32.230000] live:.cid.88e9dd71be7f958e: <quote author="live:.cid.88e9dd71be7f958e" authorname="Obinna ITC BD" timestamp="1740485567" conversation="19:c723820ee8c74df6a0a1f07eb5f7245a@thread.skype" messageid="1740485566763" cuid="11429920075648695414"><legacyquote>[1740485567] Obinna ITC BD: </legacyquote><URIObject uri="https://api.asm.skype.com/v1/objects/0-weu-d8-1ae2b7a6f8f72e141f2aff51fdb47a62" url_thumbnail="https://api.asm.skype.com/v1/objects/0-weu-d8-1ae2b7a6f8f72e141f2aff51fdb47a62/views/imgt1_anim" type="Picture.1" doc_id="0-weu-d8-1ae2b7a6f8f72e141f2aff51fdb47a62" width="342" height="1280">To view this shared photo, go to: <a href="https://login.skype.com/login/sso?go=xmmfallback?pic=0-weu-d8-1ae2b7a6f8f72e141f2aff51fdb47a62">https://login.skype.com/login/sso?go=xmmfallback?pic=0-weu-d8-1ae2b7a6f8f72e141f2aff51fdb47a62</a><OriginalName v="ImportedPhoto_1740485563428.jpg"></OriginalName><FileSize v="155041"></FileSize><meta type="photo" originalName="ImportedPhoto_1740485563428.jpg"></meta></URIObject><legacyquote>
+
+&lt;&lt;&lt; </legacyquote></quote>This data Architect/ engineer worked in Natwest same period in my CV
+[2025-02-25 12:18:25.649000] live:.cid.91279bc277fdb584: and you received one comments
+[2025-02-25 12:18:00.251000] live:.cid.c329471ec01b59ff: No comments!
+[2025-02-25 12:14:24.600000] live:.cid.88e9dd71be7f958e: <URIObject uri="https://api.asm.skype.com/v1/objects/0-weu-d6-d446bfc3f43062bce73ee04c7db4bd43" url_thumbnail="https://api.asm.skype.com/v1/objects/0-weu-d6-d446bfc3f43062bce73ee04c7db4bd43/views/imgt1_anim" type="Picture.1" doc_id="0-weu-d6-d446bfc3f43062bce73ee04c7db4bd43" width="343" height="1280">To view this shared photo, go to: <a href="https://login.skype.com/login/sso?go=xmmfallback?pic=0-weu-d6-d446bfc3f43062bce73ee04c7db4bd43">https://login.skype.com/login/sso?go=xmmfallback?pic=0-weu-d6-d446bfc3f43062bce73ee04c7db4bd43</a><OriginalName v="ImportedPhoto_1740485663194.jpg"></OriginalName><FileSize v="118651"></FileSize><meta type="photo" originalName="ImportedPhoto_1740485663194.jpg"></meta></URIObject>
+[2025-02-25 12:12:44.921000] live:.cid.88e9dd71be7f958e: <URIObject uri="https://api.asm.skype.com/v1/objects/0-weu-d8-1ae2b7a6f8f72e141f2aff51fdb47a62" url_thumbnail="https://api.asm.skype.com/v1/objects/0-weu-d8-1ae2b7a6f8f72e141f2aff51fdb47a62/views/imgt1_anim" type="Picture.1" doc_id="0-weu-d8-1ae2b7a6f8f72e141f2aff51fdb47a62" width="342" height="1280">To view this shared photo, go to: <a href="https://login.skype.com/login/sso?go=xmmfallback?pic=0-weu-d8-1ae2b7a6f8f72e141f2aff51fdb47a62">https://login.skype.com/login/sso?go=xmmfallback?pic=0-weu-d8-1ae2b7a6f8f72e141f2aff51fdb47a62</a><OriginalName v="ImportedPhoto_1740485563428.jpg"></OriginalName><FileSize v="155041"></FileSize><meta type="photo" originalName="ImportedPhoto_1740485563428.jpg"></meta></URIObject>
+[2025-02-25 12:11:51.766000] live:.cid.88e9dd71be7f958e: <URIObject uri="https://api.asm.skype.com/v1/objects/0-weu-d4-a2f11e9889ab321f45b0b0325e3fbaae" url_thumbnail="https://api.asm.skype.com/v1/objects/0-weu-d4-a2f11e9889ab321f45b0b0325e3fbaae/views/imgt1_anim" type="Picture.1" doc_id="0-weu-d4-a2f11e9889ab321f45b0b0325e3fbaae" width="342" height="1280">To view this shared photo, go to: <a href="https://login.skype.com/login/sso?go=xmmfallback?pic=0-weu-d4-a2f11e9889ab321f45b0b0325e3fbaae">https://login.skype.com/login/sso?go=xmmfallback?pic=0-weu-d4-a2f11e9889ab321f45b0b0325e3fbaae</a><OriginalName v="media_20250225_121148_8396719876197962206.jpg"></OriginalName><FileSize v="60983"></FileSize><meta type="photo" originalName="media_20250225_121148_8396719876197962206.jpg"></meta></URIObject>
+[2025-02-25 12:11:51.705000] live:.cid.88e9dd71be7f958e: <MediaAlbum albumId="87cbc3ea-6730-4f6c-86ed-d0580d0f74d3"></MediaAlbum>
+[2025-02-25 12:11:51.684000] live:.cid.88e9dd71be7f958e: <URIObject uri="https://api.asm.skype.com/v1/objects/0-weu-d10-d39bdf1dcb224de5027bc875cfca9e3d" url_thumbnail="https://api.asm.skype.com/v1/objects/0-weu-d10-d39bdf1dcb224de5027bc875cfca9e3d/views/imgt1_anim" type="Picture.1" doc_id="0-weu-d10-d39bdf1dcb224de5027bc875cfca9e3d" width="452" height="1158">To view this shared photo, go to: <a href="https://login.skype.com/login/sso?go=xmmfallback?pic=0-weu-d10-d39bdf1dcb224de5027bc875cfca9e3d">https://login.skype.com/login/sso?go=xmmfallback?pic=0-weu-d10-d39bdf1dcb224de5027bc875cfca9e3d</a><OriginalName v="media_20250225_121148_3221029767324029015.jpg"></OriginalName><FileSize v="51325"></FileSize><meta type="photo" originalName="media_20250225_121148_3221029767324029015.jpg"></meta></URIObject>
+[2025-02-25 11:59:47.169000] live:.cid.58d2b3786440ccbe: <partlist type="ended" alt=""><part identity="live:.cid.58d2b3786440ccbe"><name>live:.cid.58d2b3786440ccbe</name><duration>251</duration></part><part identity="live:.cid.88e9dd71be7f958e"><name>live:.cid.88e9dd71be7f958e</name><duration>251</duration></part></partlist>
+[2025-02-25 11:56:20.824000] live:.cid.91279bc277fdb584: could not join
+[2025-02-25 11:56:16.311000] live:.cid.91279bc277fdb584: I am in soft skill session 
+[2025-02-25 11:55:37.884000] live:.cid.88e9dd71be7f958e: <partlist type="started" alt=""><part identity="live:.cid.88e9dd71be7f958e"><name>live:.cid.88e9dd71be7f958e</name></part></partlist>
+[2025-02-25 09:19:31.198000] live:.cid.91279bc277fdb584: Best of luck<e_m a="live:.cid.91279bc277fdb584" ts_ms="1740475171198" ts="1740475171" t="61"></e_m>
+[2025-02-25 10:38:26.459000] live:.cid.88e9dd71be7f958e: Address:
+
+Mercuria,  62 Buckingham Gate, London SW1E 6AJ
+
+Time: 12:00-14:00
+
+ 
+
+Please bring photo ID to the main building reception and be dressed in Smart Business attire.
+
+ 
+
+I will call you later today with more information on the interview and its content.
+
+You are meeting
+
+Calum Squire <a href="https://www.linkedin.com/in/callum-squire-ab21a713a/">https://www.linkedin.com/in/callum-squire-ab21a713a/</a>
+
+and
+
+Ricky Grewal <a href="https://www.linkedin.com/in/ricky-grewal-115ab64/">https://www.linkedin.com/in/ricky-grewal-115ab64/</a> from the Data team.
+[2025-02-25 10:37:32.854000] live:.cid.c329471ec01b59ff: <at id="8:live:.cid.88e9dd71be7f958e">Obinna</at> where is the interview?
+[2025-02-25 09:19:44.679000] live:.cid.91279bc277fdb584: Best of luck<e_m a="live:.cid.91279bc277fdb584" ts_ms="1740475171198" ts="1740475171" t="61"></e_m>
+[2025-02-25 09:13:25.329000] live:.cid.c329471ec01b59ff: Eon at?
+[2025-02-25 09:13:05.316000] live:.cid.33c31a30baf5c0e: <quote author="live:.cid.c329471ec01b59ff" authorname="Sujay Chandra ITC BD" timestamp="1740474467" conversation="19:c723820ee8c74df6a0a1f07eb5f7245a@thread.skype" messageid="1740474466678" cuid="7478176866827499302"><legacyquote>[1740474467] Sujay Chandra ITC BD: </legacyquote><at id=" ">Prashob</at> at what time is your interview?
+<legacyquote>
+
+&lt;&lt;&lt; </legacyquote></quote>got one at 10 and another at 3
+[2025-02-25 09:09:07.423000] live:.cid.91279bc277fdb584: GM <ss type="sun" utf="🌞">(sun)</ss>
+[2025-02-25 09:07:44.949000] live:.cid.c329471ec01b59ff: <at id="8:live:.cid.33c31a30baf5c0e">Prashob</at> at what time is your interview?
+
+[2025-02-25 09:07:29.239000] live:.cid.c329471ec01b59ff: Good morning boys.
+[2025-02-24 16:15:09.339000] live:.cid.c329471ec01b59ff: Who wants to get involved in in-house development?
+[2025-02-24 14:28:22.274000] live:.cid.88e9dd71be7f958e: Can u imagine
+[2025-02-24 14:23:14.041000] live:.cid.c329471ec01b59ff: lol
+[2025-02-24 14:23:03.276000] live:.cid.db51610542d14a19: uttam motivates obinna regarding face to face interview
+
+
+Chat with: [SkypeGroupChat]
+Id: 19:dcb63dc5908146c1b1d9e1580ffcbf8f@thread.v2
+Alerts: True
+Topic: 25/2/25- 3:00PM- Prashob - Eon- Rullion -R1 
+CreatorId: live:.cid.a7ba012e54cde1fd
+UserIds: live:.cid.3ebf3a29f2ba092d
+         live:.cid.c329471ec01b59ff
+         live:.cid.33c31a30baf5c0e
+         live:.cid.a7ba012e54cde1fd
+         david.anahory
+         live:.cid.c559c1327ce754ef
+         live:.cid.af7db9ccbf097ec6
+         vickyadvani50
+         live:.cid.915b87848be70fbf
+         live:.cid.24123aa55a8e7911
+         live:.cid.cccbd31798ab450e
+AdminIds: live:.cid.3ebf3a29f2ba092d
+          live:.cid.c329471ec01b59ff
+          live:.cid.33c31a30baf5c0e
+          live:.cid.a7ba012e54cde1fd
+          david.anahory
+          live:.cid.c559c1327ce754ef
+          live:.cid.af7db9ccbf097ec6
+          vickyadvani50
+          live:.cid.915b87848be70fbf
+          live:.cid.24123aa55a8e7911
+          live:.cid.cccbd31798ab450e
+Open: False
+History: False
+Picture: None
+Active: True
+Moderated: False
+--------------------------------------------------
+[2025-02-25 15:55:22.068000] live:.cid.24123aa55a8e7911: <partlist type="ended" alt=""><part identity="live:.cid.24123aa55a8e7911"><name>live:.cid.24123aa55a8e7911</name><duration>3914</duration></part><part identity="0ad9717e-76fd-4658-a764-beaf21698977"><name>0ad9717e-76fd-4658-a764-beaf21698977</name><duration>3914</duration></part><part identity="live:.cid.33c31a30baf5c0e"><name>live:.cid.33c31a30baf5c0e</name><duration>3914</duration></part><part identity="live:.cid.915b87848be70fbf"><name>live:.cid.915b87848be70fbf</name><duration>3914</duration></part><part identity="live:.cid.cccbd31798ab450e"><name>live:.cid.cccbd31798ab450e</name><duration>3914</duration></part><part identity="vickyadvani50"><name>vickyadvani50</name><duration>3914</duration></part><part identity="live:.cid.c329471ec01b59ff"><name>live:.cid.c329471ec01b59ff</name><duration>3914</duration></part><part identity="live:.cid.3ebf3a29f2ba092d"><name>live:.cid.3ebf3a29f2ba092d</name><duration>3914</duration></part></partlist>
+[2025-02-25 15:52:07.948000] live:.cid.cccbd31798ab450e: <URIObject format_version="1.1" type="Video.2/CallRecording.1" url_thumbnail="https://api.asm.skype.com/v1/objects/0-ea-d12-6f0ea91c9bb0a330a66b44e9ea1b57f2/views/thumbnail_small" uri="https://api.asm.skype.com/v1/objects/0-ea-d12-6f0ea91c9bb0a330a66b44e9ea1b57f2" version="1.0"><RecordingStatus status="Success" code="200"><amsErrorResult /></RecordingStatus><SessionEndReason value="CallEnded" /><ChunkEndReason value="SessionEnded" /><Title>Video</Title><a href="https://login.skype.com/login/sso?go=webclient.xmm&amp;am=0-ea-d12-6f0ea91c9bb0a330a66b44e9ea1b57f2">Play</a><OriginalName v="Video-20250225_155207-Meeting Recording.mp4" /><MeetingOrganizerId value="" /><MeetingOrganizerTenantId value="" /><RecordingInitiatorId value="8:live:.cid.cccbd31798ab450e" /><CallProcessingId value="" /><ICalUid value="" /><Identifiers><Id type="callId" value="dc331f5e-391a-46d1-b0c4-8ffaf6395397" /><Id type="callLegId" value="294cc302-5ef6-415a-b4d5-94e717eeed5c" /><Id type="chunkIndex" value="0" /><Id type="AMSDocumentID" value="0-ea-d12-6f0ea91c9bb0a330a66b44e9ea1b57f2" /><Id type="StreamVideoId" value="" /></Identifiers><RecordingContent contentTypes="Recording" timestamp="2025-02-25T15:04:52.4770365Z" duration="0:46:59.76" canVideoExpire="False"><item type="video" uri="https://api.asm.skype.com/v1/objects/0-ea-d12-6f0ea91c9bb0a330a66b44e9ea1b57f2" /><item type="amsVideo" uri="https://api.asm.skype.com/v1/objects/0-ea-d12-6f0ea91c9bb0a330a66b44e9ea1b57f2" /><item type="amsTranscript" uri="" /><item type="rosterevents" uri="https://api.asm.skype.com/v1/objects/0-ea-d12-6f0ea91c9bb0a330a66b44e9ea1b57f2/views/rosterevents" /></RecordingContent></URIObject>
+[2025-02-25 15:52:03.432000] live:.cid.33c31a30baf5c0e: i can hear u 
+[2025-02-25 15:45:47.970000] live:.cid.cccbd31798ab450e:  I’m currently building a Common Data Model (CDM) for unifying data across five countries using Azure Synapse. This project involves leveraging Medallion architecture for structured data and improving data access and analysis efficiency. I’m also working on automating data pipelines with Azure DevOps and optimizing data queries in Azure Synapse to reduce processing time. The work is ongoing, and I’m actively involved in both development and deployment.&quot;
+ I’m also handling the extraction of data from various sources like IoT devices, CRM, and ERP systems using Azure Data Factory. For storage, we use Azure Blob Containers and Data Lake, with Delta tables enabling real-time updates.
+I&apos;m automating deployments with Azure DevOps and improving data quality through continuous monitoring. The project is ongoing, and I’m involved in both the design and optimization of the pipelines, ensuring data consistency and alignment with business goals, 
+azure data bricks, eventhub, cosmos db,  and
+
+&quot;The extent of my use of Databricks at Atea has been primarily for data processing and analytics. I’ve been utilizing it to build and optimize data pipelines, particularly in PySpark, and integrate them with Azure Synapse for analytics. Databricks is also being used to manage large datasets, ensuring efficient processing and enabling real-time updates through Delta Lake. While it&apos;s a <ss type="key" utf="🔑">key</ss> part of the infrastructure, I’m also focusing on automating deployments and enhancing data quality using Azure DevOps and monitoring tools like Prometheus.&quot;
+I’ve also worked with Delta Lake for real-time updates and data consistency. While Databricks itself doesn’t directly handle the cataloging of datasets, we use Azure Data Lake and Synapse for storage and data cataloging, ensuring all datasets are well-organized and accessible for analytics and model deployment.&quot;
+
+yes
+adls gen 2
+Yes, that&apos;s correct! At Atea, I’ve been using Delta Lake on Azure Data Lake Storage (ADLS) for managing large datasets. Delta Lake allows us to handle both batch and real-time data efficiently by providing ACID transactions and versioning, which is crucial for maintaining data integrity and enabling incremental updates. The combination of ADLS and Delta Lake helps us manage the growing volume of data, ensuring scalability and reliability for our analytics and machine learn
+I’ve been leveraging Databricks for applying machine learning models, specifically to predict customer behavior and sales trends. The process involves utilizing the vast amount of structured and unstructured data we have to develop predictive models that can provide insights into future customer actions, such as purchasing patterns or churn likelihood.I use PySpark on Databricks to clean and preprocess the data, followed by feature engineering to extract relevant variables for the machine learning models. For the actual modeling, I employ algorithms like regression, classification, or clustering, depending on the specific use case (e.g., customer segmentation or predicting customer lifetime value). The models are then trained, evaluated, and deployed in Databricks to generate real-time predictions and insights, which are then integrated into our business intelligence tools like Power BI.The goal of these models is to help the business make data-driven decisions by anticipating customer needs and trends, optimizing marketing efforts, and improving overall customer retention strategies.
+
+in the context of predicting customer behavior, I work closely with the data science team to identify <ss type="key" utf="🔑">key</ss> features that can provide valuable insights. This could involve aggregating customer transaction data to create features like average purchase frequency, total spending, or recency of the last purchase. I also collaborate with the team to create derived features, like customer segmentation (e.g., high-value vs low-value customers) or calculated metrics such as customer lifetime value (CLV).
+When working with unstructured data (like text from customer reviews or logs), I would transform that data into meaningful features using techniques like natural language processing (NLP) to extract sentiment or keywords. I also use PySpark to perform data transformation tasks, such as handling missing values, scaling numerical features, or encoding categorical variables, ensuring that the data is in the right format for the models.
+I communicate these steps with the data science team through clear documentation and collaborative meetings, ensuring that they understand the logic behind each engineered feature and how it aligns with the problem we are solving. The goal is to ensure that the features we create align with the overall model objectives and lead to more accurate predictions.
+I was responsible for identifying which raw data points would be most useful, helping the data science team understand the potential value of different features. For example, when we were predicting customer behavior, I suggested aggregating transaction data over specific time windows or incorporating external data sources like weather patterns to add context. 
+So while the final decision on feature selection and modeling rests with the data science team, I played an active role in advising on feature engineering and transforming the data to meet their needs. My input was more from a technical perspective, ensuring that the data was aligned with what the models would need to make accurate predictions.
+Yes, I was heavily involved in discussions about data quality, especially when it came to ensuring that the data we were feeding into the models was accurate and reliable. I performed my own checks on the data at multiple stages of the pipeline. This included:
+Initial Data Profiling: I analyzed the raw data to understand its structure, identify missing or inconsistent values, and detect anomalies or outliers that might affect model performance.
+Data Validation: Before feeding the data into the machine learning models, I performed validation checks, such as verifying data types
+Data Transformation Checks: During the feature engineering phase, I ensured that transformations (like scaling, encoding, or aggregating) were done correctly
+Automated Monitoring: I set up automated checks and alerts in the pipeline, especially in Azure Data Factory and Databricks, to monitor data quality over time.
+I also used tools like great expectation for data quality writing python script, pyspark script
+Expectations on Data Types: Ensuring that each column has the correct data type (e.g., numerical fields are floats or integers, date fields are in the correct datetime format). This helps avoid errors during transformations or when running queries.
+Null Value Checks: Checking for missing or null values in critical columns. If a column should never have null values (e.g., customer ID, transaction date)
+Range and Bound Checks: For numerical columns (e.g., transaction amounts, customer age)
+Unique Constraints: Ensuring certain fields, such as customer IDs or transaction IDs
+python great expectation
+Great Expectations
+I led training sessions and knowledge-sharing initiatives in my previous roles to ensure the team was aligned on best practices and new technologies. Some examples of what I focused on include:Data Engineering Practices: I conducted sessions on building and optimizing data pipelines, ensuring team members were comfortable with tools like Azure Data Factory, Databricks, and Snowflake. I also covered data processing techniques in PySpark and the best ways to structure and transform data for analytics.
+CI/CD and Automation: I shared knowledge on setting up CI/CD pipelines, particularly using Azure DevOps
+Best Practices for Data Quality and Monitoring: I taught the team how to implement automated data quality checks using tools like Great Expectations, 
+I led hands-on sessions on building and optimizing data pipelines, focusing on efficient data processing using PySpark, partitioning strategies for large datasets, and leveraging Delta Lake for ACID transactions in Databricks.
+15 days sprint
+daily scrum
+rameworks &amp; Tools: Jira, Azure DevOps, Kanban, Scrum.
+I explained how to break down large data projects into smaller, manageable tasks using user stories and sprints, ensuring the team was aligned with business priorities and could deliver incremental value.
+I trained the team on managing data engineering tasks using Kanban and Scrum boards in Jira or Azure DevOps
+Feedback Loops and Iterations:
+During sprint reviews, I worked with stakeholders to gather feedback on the data pipelines and the model outputs, which allowed us to refine the solution in the next sprint.
+Retrospectives helped the team discuss what went well, what could be improved, and how we could adjust our processes to be more effective.
+both, I worked with project manager
+I was leading team
+so I divided the task
+between me and team
+I do 60 % development
+40 % collaboration
+with devops
+ds
+QA
+yes
+when processing terabytes of data, I’ve handled hundreds of millions to billions of records. The actual volume would depend on the nature of the data, but in large-scale data pipelines, it’s common to work with billions of records, especially when aggregating transactional data or processing logs.
+
+yes
+spark UI
+I check the dag
+stages task
+execution plans
+spark log
+identify the bottleneck
+than apply the optimization
+reparation
+caching
+broad cast variable
+broadcast variable
+Efficient Spark Jobs: When reviewing PySpark code, the first thing I focus on is data partitioning and shuffling.
+Caching and Persistence: In long-running pipelines, I check for opportunities to cache or persist intermediate results to avoid recalculating data multiple times. This can improve performance for iterative machine learning algorithms or multi-stage data transformations.
+Server-Side Optimization (Cluster and Spark UI):
+Cluster Sizing: In terms of cluster size adjustments, I often monitor the Spark UI to understand the resource utilization and adjust the cluster configuration accordingly.
+Auto-scaling: Since Databricks supports auto-scaling,
+One specific example of database optimization I worked on in 
+Databricks involved optimizing a large ETL
+ pipeline where we were processing customer 
+transaction data from various sources.
+Problem:
+The issue I encountered was during the 
+shuffling phase of the ETL job, particularly when 
+performing joins between large datasets 
+(like customer transactions and product details). 
+The Spark UI showed that the stages in the DAG 
+were taking a significant amount of time, particularly 
+the shuffling stage, which was slow and resulted in 
+long job execution times.
+Root Cause:
+Upon further inspection, I found that:
+The join operations were causing 
+wide transformations, leading to 
+excessive shuffling of data across partitions.
+Broadcast Joins:
+The product details dataset was 
+much smaller than the customer
+ transactions dataset. So, I applied a broadcast join
+I adjusted the partitioning strategy 
+of the large customer transaction dataset based on the join keys.
+I adjusted the number of shuffle partitions 
+(spark.sql.shuffle.partitions) 
+caching
+I also identified that certain intermediate 
+results, such as aggregations, 
+were being recomputed multiple times. 
+The job runtime was reduced by over 50%.
+instead of taking 5 hrs it just takes 2 hr 40 minutes hrs
+//re join if possible//re join
+dbt
+data modeling/star schema
+scd slowly changing dimension
+cdc incremental load
+data quality check
+python with lamda
+python with airflow
+python 4.8 in 5
+pyspark same
+pyspark data bricks/ glue/emr/ data proc
+
+
+
+
+
+
+
+
+
+
+
+
+
+[2025-02-25 15:45:47.045000] live:.cid.cccbd31798ab450e: <at id="8:live:.cid.c329471ec01b59ff">Sujay</at> 
+[2025-02-25 15:42:22.174000] vickyadvani50: close all other tabs
+[2025-02-25 15:07:53.367000] live:.cid.cccbd31798ab450e: //use google doc only, my skype started behaving weired
+[2025-02-25 14:54:29.147000] live:.cid.33c31a30baf5c0e: <URIObject uri="https://api.asm.skype.com/v1/objects/0-ea-d12-b7c16a9cddfd41d825afe8831079a696" url_thumbnail="https://api.asm.skype.com/v1/objects/0-ea-d12-b7c16a9cddfd41d825afe8831079a696/views/original" type="File.1/Word.1" doc_id="0-ea-d12-b7c16a9cddfd41d825afe8831079a696">To view this file, go to: <a href="https://login.skype.com/login/sso?go=webclient.xmm&amp;docid=0-ea-d12-b7c16a9cddfd41d825afe8831079a696">https://login.skype.com/login/sso?go=webclient.xmm&amp;docid=0-ea-d12-b7c16a9cddfd41d825afe8831079a696</a><OriginalName v="Prashob Joseph (1).docx"></OriginalName><FileSize v="40555"></FileSize></URIObject>
+[2025-02-25 14:52:24.371000] live:.cid.33c31a30baf5c0e: 334426925
+[2025-02-25 14:52:03.671000] live:.cid.cccbd31798ab450e: <a href="https://docs.google.com/document/d/1LIQQPCvNOc5-B6q2-Chnoe0qjO6okQB4c9fWynqbarQ/edit?tab=t.0">https://docs.google.com/document/d/1LIQQPCvNOc5-B6q2-Chnoe0qjO6okQB4c9fWynqbarQ/edit?tab=t.0</a>
+[2025-02-25 14:50:08.980000] live:.cid.cccbd31798ab450e: <partlist type="started" alt=""><part identity="live:.cid.cccbd31798ab450e"><name>live:.cid.cccbd31798ab450e</name></part></partlist>
+[2025-02-25 14:48:34.690000] live:.cid.33c31a30baf5c0e: yes
+[2025-02-25 14:48:30.157000] live:.cid.cccbd31798ab450e: ready for interview ?
+[2025-02-25 14:48:24.002000] live:.cid.cccbd31798ab450e: hi <at id="8:live:.cid.33c31a30baf5c0e">Prashob</at> 
+[2025-02-25 14:07:19.885000] vickyadvani50: <a href="https://meet.google.com/eaj-dkmf-ezs?hs=224">https://meet.google.com/eaj-dkmf-ezs?hs=224</a>
+[2025-02-25 10:38:13.601000] live:.cid.a7ba012e54cde1fd: sure
+[2025-02-25 10:36:46.626000] live:.cid.24123aa55a8e7911: <at id="8:live:.cid.a7ba012e54cde1fd">Annie</at> Now add prep for  <at id="8:live:.cid.33c31a30baf5c0e">Prashob</at> and <at id="8:live:.cid.c329471ec01b59ff">Sujay</at> 
+[2025-02-25 09:23:36.103000] live:.cid.a7ba012e54cde1fd: <addmember><eventtime>1740475416103</eventtime><initiator>8:live:.cid.a7ba012e54cde1fd</initiator><rosterVersion>1740475416078</rosterVersion><target>8:live:.cid.c329471ec01b59ff</target><detailedtargetinfo><id>8:live:.cid.c329471ec01b59ff</id><sharehistorytime>1739963523739</sharehistorytime></detailedtargetinfo></addmember>
+[2025-02-25 09:01:24.794000] live:.cid.a7ba012e54cde1fd: <addmember><eventtime>1740474084794</eventtime><initiator>8:live:.cid.a7ba012e54cde1fd</initiator><rosterVersion>1740474084763</rosterVersion><target>8:live:.cid.3ebf3a29f2ba092d</target><detailedtargetinfo><id>8:live:.cid.3ebf3a29f2ba092d</id><sharehistorytime>1739963523739</sharehistorytime></detailedtargetinfo></addmember>
+[2025-02-24 17:16:56.821000] live:.cid.a7ba012e54cde1fd: <addmember><eventtime>1740417416821</eventtime><initiator>8:live:.cid.a7ba012e54cde1fd</initiator><rosterVersion>1740417416725</rosterVersion><target>8:live:.cid.915b87848be70fbf</target><detailedtargetinfo><id>8:live:.cid.915b87848be70fbf</id><sharehistorytime>1739963523739</sharehistorytime></detailedtargetinfo></addmember>
+[2025-02-21 14:52:51.627000] vickyadvani50: Accountabilities:
+ Develop and maintain scalable, efficient data pipelines within Databricks, continuously
+evolving them as requirements and technologies change.
+ Build and manage an enterprise data model within Databricks.
+ Integrate new data sources into the platform using batch and streaming processes, adhering
+to SLAs.
+ Create and maintain documentation for data pipelines and associated systems, following
+security and monitoring protocols.
+ Ensure data quality and reliability processes are effective, maintaining trust in the data.
+ Be comfortable with taking ownership of complex data engineering projects and develop
+appropriate solutions in accordance with business requirements.
+ Able to work closely with stakeholders and managing their requirements.
+ Actively coach and mentor others in the team and foster a culture of innovation and peer
+review within the team to ensure best practice.
+Knowledge and Skills:
+ Extensive experience of Python preferred, including advanced concepts like decorators,
+protocols, functools, context managers, and comprehensions.
+ Strong understanding of SQL, database design, and data architecture.
+ Experience with Databricks and/or Spark.
+ Knowledgeable in data governance, data cataloguing, data quality principles, and related
+tools.
+ Skilled in data extraction, joining, and aggregation tasks, especially with big data and real-
+time data using Spark.
+ Capable of performing data cleansing operations to prepare data for analysis, including
+transforming data into useful formats.
+ Understand data storage concepts and logical data structures, such as data warehousing.
+ Able to write repeatable, production-quality code for data pipelines, utilizing templating and
+parameterization where needed.
+ Can make data pipeline design recommendations based on business requirements.
+ Experience with data migration is a plus.
+ Open to new ways of working and new technologies.
+ Self-motivated with the ability to set goals and take initiative.
+ Driven to troubleshoot, deconstruct problems, and build effective solutions.
+ Experience of Git / Version control
+ Experience working with larger, legacy codebases
+ Understanding of unit and integration testing
+ Understanding and experience with CI/CD and general software development best practices
+ A strong attention to detail and a curiosity about the data you will be working with.
+ A strong understanding of Linux based tooling and concepts
+ Knowledge and experience of Amazon Web Services is essential
+[2025-02-21 14:14:23.406000] live:.cid.33c31a30baf5c0e: <at id="8:vickyadvani50">Vikram</at> Please share jd
+[2025-02-19 12:06:27.885000] live:.cid.33c31a30baf5c0e: <at id="8:vickyadvani50">Vikram</at> please share jd..
+[2025-02-19 11:12:13.635000] live:.cid.a7ba012e54cde1fd: <at id="*">all</at> 
+[2025-02-19 11:12:05.295000] live:.cid.a7ba012e54cde1fd: <addmember><eventtime>1739963525295</eventtime><initiator>8:live:.cid.a7ba012e54cde1fd</initiator><rosterVersion>1739963525263</rosterVersion><target>8:david.anahory</target><detailedtargetinfo><id>8:david.anahory</id></detailedtargetinfo><target>8:live:.cid.33c31a30baf5c0e</target><detailedtargetinfo><id>8:live:.cid.33c31a30baf5c0e</id></detailedtargetinfo><target>8:live:.cid.af7db9ccbf097ec6</target><detailedtargetinfo><id>8:live:.cid.af7db9ccbf097ec6</id></detailedtargetinfo><target>8:live:.cid.cccbd31798ab450e</target><detailedtargetinfo><id>8:live:.cid.cccbd31798ab450e</id></detailedtargetinfo><target>8:live:.cid.24123aa55a8e7911</target><detailedtargetinfo><id>8:live:.cid.24123aa55a8e7911</id></detailedtargetinfo><target>8:vickyadvani50</target><detailedtargetinfo><id>8:vickyadvani50</id></detailedtargetinfo><target>8:live:.cid.c559c1327ce754ef</target><detailedtargetinfo><id>8:live:.cid.c559c1327ce754ef</id></detailedtargetinfo></addmember>
+[2025-02-19 11:12:04.588000] live:.cid.a7ba012e54cde1fd: <addmember><eventtime>1739963524588</eventtime><initiator>8:live:.cid.a7ba012e54cde1fd</initiator><target>8:live:.cid.a7ba012e54cde1fd</target></addmember>
+[2025-02-19 11:12:04.291000] live:.cid.a7ba012e54cde1fd: <topicupdate><eventtime>1739963524588</eventtime><initiator>8:live:.cid.a7ba012e54cde1fd</initiator><value>25/2/25- 3:00PM- Prashob - Eon- Rullion -R1 </value></topicupdate>
+[2025-02-19 11:12:04.181000] live:.cid.a7ba012e54cde1fd: <historydisclosedupdate><eventtime>1739963524181</eventtime><initiator>8:live:.cid.a7ba012e54cde1fd</initiator><value>True</value></historydisclosedupdate>
+[2025-02-19 11:12:03.961000] live:.cid.a7ba012e54cde1fd: <topicupdate><eventtime>1739963523960</eventtime><initiator>8:live:.cid.a7ba012e54cde1fd</initiator><value>25/2/25- 3:00PM- Prashob - Eon- Rullion -R1 </value></topicupdate>
+[2025-02-19 11:12:03.863000] live:.cid.a7ba012e54cde1fd: <addmember><eventtime>1739963523863</eventtime><initiator>8:live:.cid.a7ba012e54cde1fd</initiator><rosterVersion>1739963523739</rosterVersion><target>8:live:.cid.a7ba012e54cde1fd</target><detailedtargetinfo><id>8:live:.cid.a7ba012e54cde1fd</id></detailedtargetinfo></addmember>
+
+
+Chat with: [SkypeGroupChat]
+Id: 19:0a46a4cac535447a965e0ceb07aaa862@thread.v2
+Alerts: True
+Topic: CAT Training ITC - UK:  BD - 29/1/2025
+CreatorId: live:.cid.ab7d9a34d597ccf3
+UserIds: live:.cid.88e9dd71be7f958e
+         live:.cid.ab7d9a34d597ccf3
+         live:.cid.f5cec7ab1bcd7a38
+         live:.cid.c329471ec01b59ff
+         live:.cid.45ca44d45cc43814
+         live:.cid.417d12685c6333c5
+         live:.cid.6b80aea2f95fce87
+         live:.cid.edea1ea046456c19
+         live:.cid.39b30a65f49ce464
+         live:.cid.33c31a30baf5c0e
+         live:.cid.a7ba012e54cde1fd
+         live:.cid.d84230de2cedcdde
+         live:.cid.db51610542d14a19
+         live:.cid.2b4aa446f4ada598
+         david.anahory
+         live:.cid.a9b09b3300f690e7
+         live:.cid.c559c1327ce754ef
+         live:.cid.af7db9ccbf097ec6
+         live:.cid.449e4c2babad6d3a
+         live:.cid.fbeaf2bc7e3ee01b
+         vanathi50
+         live:.cid.43f059cc3d840e20
+         live:.cid.9dcf3e6ab9e20623
+         live:.cid.5ba7dc6737c0ba5b
+         live:.cid.e35736d8358b5f4d
+         live:.cid.91279bc277fdb584
+         live:.cid.58d2b3786440ccbe
+         live:.cid.24123aa55a8e7911
+         live:.cid.cccbd31798ab450e
+         live:.cid.1f5eadbd8efc2044
+         live:.cid.40855f29c654708b
+         live:.cid.8e4d8c721600008d
+AdminIds: live:.cid.88e9dd71be7f958e
+          live:.cid.ab7d9a34d597ccf3
+          live:.cid.f5cec7ab1bcd7a38
+          live:.cid.c329471ec01b59ff
+          live:.cid.45ca44d45cc43814
+          live:.cid.417d12685c6333c5
+          live:.cid.6b80aea2f95fce87
+          live:.cid.edea1ea046456c19
+          live:.cid.39b30a65f49ce464
+          live:.cid.33c31a30baf5c0e
+          live:.cid.a7ba012e54cde1fd
+          live:.cid.d84230de2cedcdde
+          live:.cid.db51610542d14a19
+          live:.cid.2b4aa446f4ada598
+          david.anahory
+          live:.cid.a9b09b3300f690e7
+          live:.cid.c559c1327ce754ef
+          live:.cid.af7db9ccbf097ec6
+          live:.cid.449e4c2babad6d3a
+          live:.cid.fbeaf2bc7e3ee01b
+          vanathi50
+          live:.cid.9dcf3e6ab9e20623
+          live:.cid.5ba7dc6737c0ba5b
+          live:.cid.e35736d8358b5f4d
+          live:.cid.58d2b3786440ccbe
+          live:.cid.24123aa55a8e7911
+          live:.cid.cccbd31798ab450e
+          live:.cid.1f5eadbd8efc2044
+          live:.cid.40855f29c654708b
+          live:.cid.8e4d8c721600008d
+Open: False
+History: False
+Picture: None
+Active: True
+Moderated: False
+--------------------------------------------------
+[2025-02-25 14:14:37.464000] live:.cid.449e4c2babad6d3a: <partlist type="ended" alt=""><part identity="live:.cid.8e4d8c721600008d"><name>live:.cid.8e4d8c721600008d</name><duration>17623</duration></part><part identity="0ad9717e-76fd-4658-a764-beaf21698977"><name>0ad9717e-76fd-4658-a764-beaf21698977</name><duration>17623</duration></part><part identity="live:.cid.a9b09b3300f690e7"><name>live:.cid.a9b09b3300f690e7</name><duration>17623</duration></part><part identity="live:.cid.5ba7dc6737c0ba5b"><name>live:.cid.5ba7dc6737c0ba5b</name><duration>17623</duration></part><part identity="live:.cid.cccbd31798ab450e"><name>live:.cid.cccbd31798ab450e</name><duration>17623</duration></part><part identity="live:.cid.2b4aa446f4ada598"><name>live:.cid.2b4aa446f4ada598</name><duration>17623</duration></part><part identity="live:.cid.43f059cc3d840e20"><name>live:.cid.43f059cc3d840e20</name><duration>17623</duration></part><part identity="live:.cid.449e4c2babad6d3a"><name>live:.cid.449e4c2babad6d3a</name><duration>17623</duration></part><part identity="live:.cid.edea1ea046456c19"><name>live:.cid.edea1ea046456c19</name><duration>17623</duration></part><part identity="live:.cid.db51610542d14a19"><name>live:.cid.db51610542d14a19</name><duration>17623</duration></part><part identity="live:.cid.91279bc277fdb584"><name>live:.cid.91279bc277fdb584</name><duration>17623</duration></part><part identity="live:.cid.417d12685c6333c5"><name>live:.cid.417d12685c6333c5</name><duration>17623</duration></part><part identity="live:.cid.45ca44d45cc43814"><name>live:.cid.45ca44d45cc43814</name><duration>17623</duration></part><part identity="live:.cid.6b80aea2f95fce87"><name>live:.cid.6b80aea2f95fce87</name><duration>17623</duration></part></partlist>
+[2025-02-25 12:14:41.944000] live:.cid.cccbd31798ab450e: ok tomorrow
+[2025-02-25 12:14:28.204000] live:.cid.db51610542d14a19: <at id="8:live:.cid.cccbd31798ab450e">Uttam Kumar</at> i am in soft skills session
+[2025-02-25 12:08:49.613000] live:.cid.43f059cc3d840e20: <URIObject format_version="1.1" type="Video.2/CallRecording.1" url_thumbnail="https://api.asm.skype.com/v1/objects/0-neu-d11-dc769d3cf5959c0e6b205f6400ee7ef1/views/thumbnail_small" uri="https://api.asm.skype.com/v1/objects/0-neu-d11-dc769d3cf5959c0e6b205f6400ee7ef1" version="1.0"><RecordingStatus status="Success" code="200"><amsErrorResult /></RecordingStatus><SessionEndReason value="CallEnded" /><ChunkEndReason value="SessionEnded" /><Title>Video</Title><a href="https://login.skype.com/login/sso?go=webclient.xmm&amp;am=0-neu-d11-dc769d3cf5959c0e6b205f6400ee7ef1">Play</a><OriginalName v="Video-20250225_120849-Meeting Recording.mp4" /><MeetingOrganizerId value="" /><MeetingOrganizerTenantId value="" /><RecordingInitiatorId value="8:live:.cid.43f059cc3d840e20" /><CallProcessingId value="" /><ICalUid value="" /><Identifiers><Id type="callId" value="71ccf9f8-bd19-47e3-adec-598f5e29c87f" /><Id type="callLegId" value="2f68b2c7-89ac-4a20-b43a-baef5c33e379" /><Id type="chunkIndex" value="0" /><Id type="AMSDocumentID" value="0-neu-d11-dc769d3cf5959c0e6b205f6400ee7ef1" /><Id type="StreamVideoId" value="" /></Identifiers><RecordingContent contentTypes="Recording" timestamp="2025-02-25T11:40:44.8098889Z" duration="0:27:56.26" canVideoExpire="False"><item type="video" uri="https://api.asm.skype.com/v1/objects/0-neu-d11-dc769d3cf5959c0e6b205f6400ee7ef1" /><item type="amsVideo" uri="https://api.asm.skype.com/v1/objects/0-neu-d11-dc769d3cf5959c0e6b205f6400ee7ef1" /><item type="amsTranscript" uri="" /><item type="rosterevents" uri="https://api.asm.skype.com/v1/objects/0-neu-d11-dc769d3cf5959c0e6b205f6400ee7ef1/views/rosterevents" /></RecordingContent></URIObject>
+[2025-02-25 12:07:50.431000] live:.cid.cccbd31798ab450e: are you ready with incremental load ?
+[2025-02-25 12:07:38.616000] live:.cid.cccbd31798ab450e: <at id="8:live:.cid.db51610542d14a19">Hasnain</at> 
+[2025-02-25 12:01:37.238000] live:.cid.cccbd31798ab450e: sudo -u hdfs hdfs dfs -chmod -R 777 /user/history
+sudo -u hdfs hdfs dfs -chmod -R 777 /user/history/*
+
+[2025-02-25 12:01:25.782000] live:.cid.cccbd31798ab450e: sudo -u hdfs hdfs dfs -chown -R mapred:hive /user/history/done_intermediate
+[2025-02-25 11:40:43.519000] live:.cid.6b80aea2f95fce87: <URIObject format_version="1.1" type="Video.2/CallRecording.1" url_thumbnail="https://api.asm.skype.com/v1/objects/0-neu-d6-edd7d4250ac09be3ab2dea80cc75d1b7/views/thumbnail_small" uri="https://api.asm.skype.com/v1/objects/0-neu-d6-edd7d4250ac09be3ab2dea80cc75d1b7" version="1.0"><RecordingStatus status="Success" code="200"><amsErrorResult /></RecordingStatus><SessionEndReason value="CallEnded" /><ChunkEndReason value="SessionEnded" /><Title>Video</Title><a href="https://login.skype.com/login/sso?go=webclient.xmm&amp;am=0-neu-d6-edd7d4250ac09be3ab2dea80cc75d1b7">Play</a><OriginalName v="Video-20250225_114043-Meeting Recording.mp4" /><MeetingOrganizerId value="" /><MeetingOrganizerTenantId value="" /><RecordingInitiatorId value="8:live:.cid.6b80aea2f95fce87" /><CallProcessingId value="" /><ICalUid value="" /><Identifiers><Id type="callId" value="71ccf9f8-bd19-47e3-adec-598f5e29c87f" /><Id type="callLegId" value="ce582d2e-9156-438c-b779-ed32d378e56e" /><Id type="chunkIndex" value="0" /><Id type="AMSDocumentID" value="0-neu-d6-edd7d4250ac09be3ab2dea80cc75d1b7" /><Id type="StreamVideoId" value="" /></Identifiers><RecordingContent contentTypes="Recording" timestamp="2025-02-25T11:40:36.1808333Z" duration="0:00:04.92" canVideoExpire="False"><item type="video" uri="https://api.asm.skype.com/v1/objects/0-neu-d6-edd7d4250ac09be3ab2dea80cc75d1b7" /><item type="amsVideo" uri="https://api.asm.skype.com/v1/objects/0-neu-d6-edd7d4250ac09be3ab2dea80cc75d1b7" /><item type="amsTranscript" uri="" /><item type="rosterevents" uri="https://api.asm.skype.com/v1/objects/0-neu-d6-edd7d4250ac09be3ab2dea80cc75d1b7/views/rosterevents" /></RecordingContent></URIObject>
+[2025-02-25 11:04:18.164000] live:.cid.cccbd31798ab450e: <URIObject format_version="1.1" type="Video.2/CallRecording.1" url_thumbnail="https://api.asm.skype.com/v1/objects/0-neu-d3-27bd3f69334bd0c1d7a80617f5fe2c59/views/thumbnail_small" uri="https://api.asm.skype.com/v1/objects/0-neu-d3-27bd3f69334bd0c1d7a80617f5fe2c59" version="1.0"><RecordingStatus status="Success" code="200"><amsErrorResult /></RecordingStatus><SessionEndReason value="CallEnded" /><ChunkEndReason value="SessionEnded" /><Title>Video</Title><a href="https://login.skype.com/login/sso?go=webclient.xmm&amp;am=0-neu-d3-27bd3f69334bd0c1d7a80617f5fe2c59">Play</a><OriginalName v="Video-20250225_110418-Meeting Recording.mp4" /><MeetingOrganizerId value="" /><MeetingOrganizerTenantId value="" /><RecordingInitiatorId value="8:live:.cid.cccbd31798ab450e" /><CallProcessingId value="" /><ICalUid value="" /><Identifiers><Id type="callId" value="71ccf9f8-bd19-47e3-adec-598f5e29c87f" /><Id type="callLegId" value="94b77562-02ab-4784-a50f-0bd3d3492532" /><Id type="chunkIndex" value="0" /><Id type="AMSDocumentID" value="0-neu-d3-27bd3f69334bd0c1d7a80617f5fe2c59" /><Id type="StreamVideoId" value="" /></Identifiers><RecordingContent contentTypes="Recording" timestamp="2025-02-25T09:28:15.2468158Z" duration="1:34:58.14" canVideoExpire="False"><item type="video" uri="https://api.asm.skype.com/v1/objects/0-neu-d3-27bd3f69334bd0c1d7a80617f5fe2c59" /><item type="amsVideo" uri="https://api.asm.skype.com/v1/objects/0-neu-d3-27bd3f69334bd0c1d7a80617f5fe2c59" /><item type="amsTranscript" uri="" /><item type="rosterevents" uri="https://api.asm.skype.com/v1/objects/0-neu-d3-27bd3f69334bd0c1d7a80617f5fe2c59/views/rosterevents" /></RecordingContent></URIObject>
+[2025-02-25 10:24:54.485000] live:.cid.cccbd31798ab450e: [ec2-user@ip-172-31-5-217 ~]$ sudo -u oozie hdfs dfs -cp /user/oozie/share/lib/postgresql-42.5.0.jar /user/oozie/share/lib/lib_20250225095348/sqoop
+[ec2-user@ip-172-31-5-217 ~]$ oozie admin -oozie <a href="http://ip-172-31-3-80.eu-west-2.compute.internal:11000/oozie">http://ip-172-31-3-80.eu-west-2.compute.internal:11000/oozie</a> -sharelibupdate 
+[ShareLib update status]
+	sharelibDirOld = hdfs://ip-172-31-3-80.eu-west-2.compute.internal:8020/user/oozie/share/lib/lib_20250225095348
+	host = <a href="http://ip-172-31-3-80.eu-west-2.compute.internal:11000/oozie">http://ip-172-31-3-80.eu-west-2.compute.internal:11000/oozie</a>
+	sharelibDirNew = hdfs://ip-172-31-3-80.eu-west-2.compute.internal:8020/user/oozie/share/lib/lib_20250225095348
+	status = Successful
+
+
+
+[2025-02-25 10:23:38.565000] live:.cid.cccbd31798ab450e: sudo -u oozie hdfs dfs -cp /user/oozie/share/lib/postgresql-42.5.0.jar /user/oozie/share/lib/lib_20250225095348/sqoop
+[2025-02-25 10:21:06.753000] live:.cid.cccbd31798ab450e: DEBUG StatusLogger org.apache.logging.log4j.core.util.SystemClock does not support precise timestamps.
+java.lang.RuntimeException: Could not load db driver class: org.postgresql.Driver
+[2025-02-25 09:54:35.132000] live:.cid.cccbd31798ab450e: <URIObject uri="https://api.asm.skype.com/v1/objects/0-weu-d2-f962fb26932cab0fdb8dc3e384f24bcf" url_thumbnail="https://api.asm.skype.com/v1/objects/0-weu-d2-f962fb26932cab0fdb8dc3e384f24bcf/views/imgt1_anim" type="Picture.1" doc_id="0-weu-d2-f962fb26932cab0fdb8dc3e384f24bcf" width="2902" height="1058">To view this shared photo, go to: <a href="https://login.skype.com/login/sso?go=xmmfallback?pic=0-weu-d2-f962fb26932cab0fdb8dc3e384f24bcf">https://login.skype.com/login/sso?go=xmmfallback?pic=0-weu-d2-f962fb26932cab0fdb8dc3e384f24bcf</a><OriginalName v="image_2025_02_25T09_54_34_013Z.png"></OriginalName><FileSize v="302008"></FileSize><meta type="photo" originalName="image_2025_02_25T09_54_34_013Z.png"></meta></URIObject>
+[2025-02-25 09:45:00.824000] live:.cid.db51610542d14a19: :wq
+[2025-02-25 09:42:43.165000] live:.cid.db51610542d14a19: hql
+[2025-02-25 09:37:25.624000] live:.cid.db51610542d14a19: <a href="http://18.169.244.191:8889/hue/oozie/editor/workflow/new/">Hue - Workflow</a>
+[2025-02-25 09:37:09.261000] live:.cid.cccbd31798ab450e: will reach by 9:15
+[2025-02-25 09:32:26.675000] live:.cid.cccbd31798ab450e: <at id="8:live:.cid.db51610542d14a19">Hasnain</at> 
+[2025-02-25 09:20:55.795000] live:.cid.43f059cc3d840e20: <partlist type="started" alt=""><part identity="live:.cid.43f059cc3d840e20"><name>live:.cid.43f059cc3d840e20</name></part></partlist>
+[2025-02-25 09:15:39.973000] live:.cid.449e4c2babad6d3a: hi <at id="8:live:.cid.cccbd31798ab450e">Uttam</at> 
+my Github: <a href="https://github.com/Amolvikaspatil/Amol_ITC">Amolvikaspatil/Amol_ITC</a>
+still updating the files.
+[2025-02-25 08:57:17.725000] live:.cid.cccbd31798ab450e: stuck in train, will be late for few minutes 
+[2025-02-25 09:01:37.419000] live:.cid.edea1ea046456c19: Same here, at Whitechapel somebody got ill.
+
+Train will get delay for sometime.
+[2025-02-25 08:49:59.900000] live:.cid.edea1ea046456c19: Good morning 
+[2025-02-25 08:42:01.615000] live:.cid.8e4d8c721600008d: Good morning 
+[2025-02-25 08:41:01.508000] live:.cid.9dcf3e6ab9e20623: Good morning 
+[2025-02-25 08:41:01.333000] live:.cid.6b80aea2f95fce87: Good morning 
+[2025-02-25 08:40:51.234000] live:.cid.43f059cc3d840e20: Good morning 
+[2025-02-25 08:40:37.338000] live:.cid.e35736d8358b5f4d: Good morning boss
+[2025-02-25 08:40:18.679000] live:.cid.cccbd31798ab450e: good morning 
